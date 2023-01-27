@@ -1,0 +1,3544 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "小猪配平Peppa Pig\u0027s Burning Broom",
+  "version": "1.2",
+  "author": "openforge",
+  "description": "",
+  "fileApi": "",
+  "url": "",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.19.2"
+    },
+    {
+      "id": "forge",
+      "version": "43.2.0"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "config/anointeditems-client.toml",
+      "hash": "f53adb27b063490a010933ca53f83675c285b215",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/anointeditems-common.toml",
+      "hash": "d4887ba373eaa9b23713487997d7ce746f7baafd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apoli-client.toml",
+      "hash": "e3b1708330482bfe558e06faf40032f3473322d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apoli-common.toml",
+      "hash": "1bb74f73fbf2884a905f9966178652e261af3190",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_accelerate.toml",
+      "hash": "cf2c0cdabe1676fd3cb38cd15bc4c614e918bd6a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_amplify.toml",
+      "hash": "a05feeec05b18b06a5d075aab420c3f2cb95dcc2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_aoe.toml",
+      "hash": "e53e55212e8f75d2e8d57fb55bb232daf9d75144",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_blink.toml",
+      "hash": "158453f2fb84cd53fd14701768232b923f2b7d77",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_bounce.toml",
+      "hash": "2be89e700567f2e16ee765d458023917dcd3a545",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_break.toml",
+      "hash": "a33db7c04b5f0939c09fc5c558280a1dc1d90729",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_cold_snap.toml",
+      "hash": "02be471c77fe671cfb6b32fe9a0861a14ca19f0d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_conjure_water.toml",
+      "hash": "412a9e355146ae47c85161de182cfe46bbb24dad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_craft.toml",
+      "hash": "32fd85fb52118d024e246b083ae82d8ee7584447",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_crush.toml",
+      "hash": "f9a158a64108734542f798963112434024551fc4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_cut.toml",
+      "hash": "c5645beb7cf28fba526a5069dbd6d6884ea9921b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_dampen.toml",
+      "hash": "67b6bf35dd1a743a6de72373b391478cb6ac9889",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_decelerate.toml",
+      "hash": "69d22d25344e3350e514b97b94235e2c61f4f5ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_delay.toml",
+      "hash": "480647792062a6f304231f5d7b2940e206192011",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_dispel.toml",
+      "hash": "1a06755d83c6daf3a29c13369dbced6b45ed78b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_duration_down.toml",
+      "hash": "829b10944640cea34fc05cfd357cfb3120b1db05",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_ender_inventory.toml",
+      "hash": "32fd85fb52118d024e246b083ae82d8ee7584447",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_evaporate.toml",
+      "hash": "32fd85fb52118d024e246b083ae82d8ee7584447",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_exchange.toml",
+      "hash": "32fd85fb52118d024e246b083ae82d8ee7584447",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_explosion.toml",
+      "hash": "30ceb4ade982cf14802380544fd7d4dc16e09c91",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_extend_time.toml",
+      "hash": "cf2c0cdabe1676fd3cb38cd15bc4c614e918bd6a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_extract.toml",
+      "hash": "a6db52c16eaa142211844636bda3518bbfbd19b9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_fangs.toml",
+      "hash": "bf18776e484c0a07d20ad6abcdee74ec50600389",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_fell.toml",
+      "hash": "295a3bd4793dc2f4aa3fbae076708763a880a715",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_firework.toml",
+      "hash": "698fd16c75116aad0229aa7303cb5cf1b1031155",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_flare.toml",
+      "hash": "ab23ce0a7bf0c43c21644f578a1c0723c56bfe59",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_fortune.toml",
+      "hash": "e020bfb275780c44c2287a80c2032238f0850947",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_freeze.toml",
+      "hash": "2f5fa95e71cbaf30d7abea905bcb7cda1ed6cdc5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_glide.toml",
+      "hash": "c8185120344d3b0990e12e3ea6fb7c9fd24d968c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_gravity.toml",
+      "hash": "011762cb7333eeef3a133d25317fde2ba25aebc7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_grow.toml",
+      "hash": "d648c4fdea5cc0ba441b6706340182fefc4a3a3c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_gust.toml",
+      "hash": "44b6ee09c86622c35f298c7ab9acf484ac29fe23",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_harm.toml",
+      "hash": "38b8b497b65b24d3ff948566a83838cd6a3ea461",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_harvest.toml",
+      "hash": "75d64d2bbff633601472de2f301d29e183eea65e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_heal.toml",
+      "hash": "95d2a1e9771011fe177a9f540233545cc5b80eb3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_hex.toml",
+      "hash": "f1d0f45df39f8640cb08255f01a9bc6fdb7938dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_ignite.toml",
+      "hash": "22430917438a2ced7809bf7ac0d41c4e082ea9c2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_infuse.toml",
+      "hash": "1a06755d83c6daf3a29c13369dbced6b45ed78b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_intangible.toml",
+      "hash": "423fa97db8874dcf4a16c4b94a796a2003296b66",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_interact.toml",
+      "hash": "75d64d2bbff633601472de2f301d29e183eea65e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_invisibility.toml",
+      "hash": "fc8e976c23c6a45b861a5021c40530a6a1454697",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_launch.toml",
+      "hash": "c8ff21ddf20c795b2821137c8e722110a8f97adb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_leap.toml",
+      "hash": "82a9c05c10cb25e29eb85797ab29d36d04b034de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_light.toml",
+      "hash": "e92b9bf2141497ea47b5f1b6ef17754db5ac590a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_lightning.toml",
+      "hash": "11ec29ba5a1f6c3e7b49ddaffb135cefbef1b3c3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_linger.toml",
+      "hash": "ccd2be730c7aa484cf806eae3e605b4ac2d19e43",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_name.toml",
+      "hash": "85d701de0d95123c69c1f8cc638eec592cc6c7c7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_orbit.toml",
+      "hash": "32fd85fb52118d024e246b083ae82d8ee7584447",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_phantom_block.toml",
+      "hash": "90986447d19f63ba96a3ddc1a14918a0764a15a7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_pickup.toml",
+      "hash": "75d64d2bbff633601472de2f301d29e183eea65e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_pierce.toml",
+      "hash": "dde1a8de4aafe6b8664caa0fa043b107a72589b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_place_block.toml",
+      "hash": "75d64d2bbff633601472de2f301d29e183eea65e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_projectile.toml",
+      "hash": "702be6f66436929347c503878782ae3a093b01eb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_pull.toml",
+      "hash": "a7703cf377262db4b74332c6670c85ce7c22f298",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_redstone_signal.toml",
+      "hash": "d0919604e12523280c44a881effa7862d397a702",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_rune.toml",
+      "hash": "1a06755d83c6daf3a29c13369dbced6b45ed78b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_self.toml",
+      "hash": "a791a02cdeda50fc8f7bc3a358e77267f2d868ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_sense_magic.toml",
+      "hash": "8e6dbb41975abb905106d42fa662f7f81d8be8a9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_sensitive.toml",
+      "hash": "cf2c0cdabe1676fd3cb38cd15bc4c614e918bd6a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_slowfall.toml",
+      "hash": "fc8e976c23c6a45b861a5021c40530a6a1454697",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_smelt.toml",
+      "hash": "f610a9bf6feb58b78361fae9a1d68ee2bf0c0015",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_snare.toml",
+      "hash": "9f2a4b589826795ec7c33167b621f58b7a28b9b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_split.toml",
+      "hash": "a05feeec05b18b06a5d075aab420c3f2cb95dcc2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_summon_decoy.toml",
+      "hash": "1c866b785fc802060b2b08370169d72fd8c7df4d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_summon_steed.toml",
+      "hash": "adf4d0242ac8f75c4aad90f0e70801a6efa34877",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_summon_undead.toml",
+      "hash": "d8ba292eb2aba750a19dfd86561354d0f83a9c54",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_summon_vex.toml",
+      "hash": "d8ba292eb2aba750a19dfd86561354d0f83a9c54",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_summon_wolves.toml",
+      "hash": "00545d2a3076c34710b4a55a9414926b50ecdad6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_toss.toml",
+      "hash": "75d64d2bbff633601472de2f301d29e183eea65e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_touch.toml",
+      "hash": "395b52e8978d54eaeaee47a72e92ae5d8fc87c20",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_underfoot.toml",
+      "hash": "bab585d7d5240e6adc3be56afbce0c25856180aa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_wind_shear.toml",
+      "hash": "df4b2868658c645e1f280bb06f30e87471e467ab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau/glyph_wither.toml",
+      "hash": "f1d0f45df39f8640cb08255f01a9bc6fdb7938dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau-client.toml",
+      "hash": "6262b683c44efe8146fe60fb8aadaf14d2b6adaa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau-common.toml",
+      "hash": "8d023fc8f6e053c2f89b796835b0d281b670e373",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ars_nouveau-server.toml",
+      "hash": "0583d11bade6e5dd718c56085fcc6bcdad9cfbe7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/betteranimationscollection-client.toml",
+      "hash": "82215d17dff6a799d69c535cda1eb9ee7ade1c72",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettercombat/client.json5",
+      "hash": "eb88d2b65ace9410ee2b20f40e4cfe080c864de3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettercombat/fallback_compatibility.json",
+      "hash": "20c34e9d7b4a7ce8535a75dd234b23f271a0394a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettercombat/server.json5",
+      "hash": "08324d643fc6a3b5df5f131d618b128063cefc5a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/betterfpsdist-common.toml",
+      "hash": "1c7c81820b9d430cedffe06e3afc372f89d7c5e6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/botania-client.toml",
+      "hash": "4e3898e5ecf347e74eac0ddda2062818bce801ab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/botania-common.toml",
+      "hash": "bab5627d0720d45548da34284c6908890b2ebd59",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/breedablekillerrabbit-common.toml",
+      "hash": "a8cf3878bcff70a96f749ee455b210e953303b16",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/buildinggadgets-client.toml",
+      "hash": "eff72df6ab0a618007d46d4e6f7080f837cb406b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/calio-common.toml",
+      "hash": "0a5e542b6129f3f88cb3a6309cd7ea110a3d2bbd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/camera-client.toml",
+      "hash": "7fd9a28417fc41069ce740236711778bb902af36",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/canary.properties",
+      "hash": "da21a52310e2d5c6b393a06b58d15a38ae3bf863",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/chemlib-common.toml",
+      "hash": "8c180baa800bd1258798478a983d94e5b19ddfe4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/chickensshed.toml",
+      "hash": "c7588361b4a15388399dcf66fe03dfcdb8aca2c0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/collective/checked.txt",
+      "hash": "21628423bee974b2f51eb8bc581e4b840754ec36",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/collective-common.toml",
+      "hash": "100c794906b094e96a94eeb9d5a157dab4ba65e0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/compactmachines-common.toml",
+      "hash": "e03e316e61a89b88ca887e462bd72e2d95517009",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/constructionwand-client.toml",
+      "hash": "02aac28292c4b528d9ababf94209cea204d9d026",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/contact-client.toml",
+      "hash": "402b32693b3aa72141e7489cd19874db98ba1b1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/contact-common.toml",
+      "hash": "f2332ac9fd7273a0a9ae993d84319cdb837d5575",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "d45dd8f8d4049b569cd1c60f66768d6bb6b49c61",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "04638c6528db435bbd9474a621927cf0739ef420",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/createaddition-common.toml",
+      "hash": "960d5b2ea35f359249d2beeb734ee90c29b6fbd5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "ee5607552a851c19ef1d53c6e4bac5c307d10524",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/darkmodeeverywhere-client.toml",
+      "hash": "05d98830fd28871a441f542d1489b6609bae96cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/darkmodeeverywhereshaders.json",
+      "hash": "bf1d85442af6c8b080c82df1ee596e5909b56940",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/defaultworldtype/client-config.toml",
+      "hash": "a14d0a385ee2e9417839c5a4382ad184ec9c4e0e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/defaultworldtype/world-types.txt",
+      "hash": "058e412c0f5425e4543c088257dd2354818be1a5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ding.toml",
+      "hash": "58571913fd342f370d9e09a245bcc85fda39cbab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/drinkit-common-1.toml.bak",
+      "hash": "8233500fac4f0f1ed27969370cf2dd3363c8c1b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/drinkit-common-2.toml.bak",
+      "hash": "8233500fac4f0f1ed27969370cf2dd3363c8c1b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/drinkit-common-3.toml.bak",
+      "hash": "8233500fac4f0f1ed27969370cf2dd3363c8c1b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/drinkit-common-4.toml.bak",
+      "hash": "8233500fac4f0f1ed27969370cf2dd3363c8c1b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/drinkit-common.toml",
+      "hash": "8233500fac4f0f1ed27969370cf2dd3363c8c1b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/drippyloadingscreen/config.cfg",
+      "hash": "9cd8c920936a859d39d3abe51822999a7a2c2258",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/drippyloadingscreen/customization/2p2b.dllayout",
+      "hash": "214dce39fadcc897f12251384aff8de1219fa9b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/drippyloadingscreen/locals/en_us.local",
+      "hash": "852f617f483b4cdb610f5eeb76f1a287f2f3b88e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/easy_villagers-client.toml",
+      "hash": "f320c3bfa2f589222816fbe7f3ad6a0731813dc9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enigmaticlegacy-client.omniconf",
+      "hash": "85c4b0c72721763b1be8b1ae8b8c18c85bf78dd6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enigmaticlegacy-common.omniconf",
+      "hash": "284be35cd2b22351a0e7a2d270ed95495622411a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/extractinator.toml",
+      "hash": "4ad4e4cf7caad91d2f36cb0e3d6772cb4273bb44",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fallingtree.json",
+      "hash": "5850ff4edb60072adc69d53ee3d6bf094d846ea5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "7109adf50788f4bf5797dd3809ad0dc923c8f023",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "6a9e38e5db0ed4d42c462ce14222852185c3ff5a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fastload.properties",
+      "hash": "071d9035cf0f08f4efc35c8b4f20491c64d4d919",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "60c10e465a884efec5ff7e791e124308f7a8a890",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "hash": "2f2ab61806dd8d920b5154ba8d8094f2c0f6710d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "1cf6c38ff6790b3eba43bfad93af73ba0d082eb7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forcecraft-common.toml",
+      "hash": "5c28c242fc4d2ed9a32c0f4e423c2c392c7ffdad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "fd55bc2efff3839efb1ba4f292e010e6e5837a01",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-common.toml",
+      "hash": "f76722c529494d7b78ab5ad607fff4463866673b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-resource-caching.toml",
+      "hash": "d14d4fec6929e794e0ddaa8598023655e9973b17",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forgivingvoid-common.toml",
+      "hash": "4cba77f99b50bc11beafe766aba20b15f5599a92",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fpsreducer/fpsreducer-client.toml",
+      "hash": "67e144e94d0edd655a68d4ab1b4b566d4dce7e28",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/20B3EB984114F1B9.snbt",
+      "hash": "fec704f7ca3e3875e6293a4eadc515e6541aba28",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/23D8195E712DB841.snbt",
+      "hash": "54913e6c9b00d2f05835642362610f449d67e587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/31132D6CD5E7AA68.snbt",
+      "hash": "eb0c4922371da3ed61f8dcc49e17391a298e7e00",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/38CC580D94CE406E.snbt",
+      "hash": "10e571da9c94d929472f6e6992ab79d2022c1362",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/52D3EB8E5A4FD9A6.snbt",
+      "hash": "9bcdd9b57a09be6ff068f7c0a259467c6be620a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/53B50A36A7358034.snbt",
+      "hash": "a018bf559e0b4a20267d35eee459647105b53761",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/600222A6D60385A0.snbt",
+      "hash": "8217e28023a308c174b28da07871cc4e0aab8c19",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/646BC6276C2F91DE.snbt",
+      "hash": "a5c2ead9126447970e091ee9b089d5f64b7735a2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/77F8A3285ACC04BA.snbt",
+      "hash": "f88fc25599102ff7442c7e3a840f8f5434415f14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/chapter_groups.snbt",
+      "hash": "b626e3ee78556e5c14b210141933bf96283c91fe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/data.snbt",
+      "hash": "9d06b6a4d6fc7f073f2edfa7a2b02148f1012d7a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/02B9B2F22884EA52.snbt",
+      "hash": "2079813916d3e3f1fb4abecc96b0728a8f93cfe8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/06E8D45EF34E429A.snbt",
+      "hash": "af12d3abadc0f5d11c526a2365116149476d66b9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/0A72924B01307D97.snbt",
+      "hash": "f57b84328961c8b763246a75d113d1eff95a441b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/15BBDB7F6E191B5B.snbt",
+      "hash": "a4a8ed9787e7b7122a974c36708858877411f85b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/2F01E74E55FF383D.snbt",
+      "hash": "86f066a1e7dea800f228504e2bcd30328cfd1958",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/4BCE8B08F457F302.snbt",
+      "hash": "700db33add5c35ad755efccf827a779acf60dea9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/5332DDCF459D7C8F.snbt",
+      "hash": "0c459045bce1702227808d1c42a2e0bedfff5a16",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/696A6364EABED2AD.snbt",
+      "hash": "9b1409d434fde2b94338ad8b498ea8eac42ec40e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/7D9B381239AC03B4.snbt",
+      "hash": "11920481e07f6565d11e3a02921e5611ff3573e4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/dj.snbt",
+      "hash": "53ff5826f30e77328fd89021fe03b9cf377af116",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/threads.snbt",
+      "hash": "134a2273cee820b142f1b98eee696e71f4167965",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gamestages/known_stages.json",
+      "hash": "5277b1f306bd268fa6a220f2fd50ff474c22b29f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/hammerlib/recipes/builtin/test_machine.json",
+      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/hammerlib/recipes/custom/test_machine/__template.json",
+      "hash": "28392c0a39c72a33e7db4b7c190cf0874ab76db4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/hammerlib.cfg",
+      "hash": "f0cb5453967f7a48a07a44bd29a8ec028d0270d3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/heartbalance.toml",
+      "hash": "9d8d78c280f73c6c1e13d1ed868fa8f878683314",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/improvableskills.cfg",
+      "hash": "95704d88f1e9cd9e695766efbe7e3903a26fc5a5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/infernalmobs.cfg",
+      "hash": "c238d4d76cbdcecb332df86ef2247c01b1f4c6bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/insanelib-common.toml",
+      "hash": "ddc1e8f4e97f2317343192352e4eb70cf5c9ede0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/instrumentalmobs-common.toml",
+      "hash": "34e43a449c1fb6cdf610c8438e2f308ae2970936",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/InventoryHUD/curios.json",
+      "hash": "15a9672d415ccac7a794ea21734243165f654faa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/inventoryhud-client.toml",
+      "hash": "74963ee51be26956c9774000e3a502b20274d29a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "797e5ea051d4fab6f76118a1b2cfaf7ce2bae1ce",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "4459779910d7fa042dc5d526cfceaeb2b3ed8ec9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "d1a96deeecd90c5c344aa6271d11e4fb02a506ff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jecharacters.toml",
+      "hash": "139c9e1aa507e48a0fcc61ed19418ac87ced683f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "38b602a08d9d6bca095f38aa979e99535bb8a55e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "489c92937e1a317921c53cd5b3e73834728eae51",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "8b51d057a6067544953992ceee10885f2137fa06",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "6e0e7039024af6ea48b1b2200e18abf2c688ebdd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/world/local/bookmarks.ini",
+      "hash": "8fc580cce27cab1c7bcee53d9f8b564589aee82e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/world/server/Minecraft____c3b266e1/bookmarks.ini",
+      "hash": "7af79d28a53a006c3d6d47b6a57662683a99c5d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/world/server/tiantiancn_-______812ac5ef/bookmarks.ini",
+      "hash": "eea01eacb48cda58ce0240f2ebccba9358e9ee15",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jeresources-common.toml",
+      "hash": "6aa78dcf4043839e101c0b116a05d6e936272585",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jeresources.toml",
+      "hash": "5488c358d2c0aa830e73bc9795a1a18c36256407",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jerintegration-client.toml",
+      "hash": "dbd94aa3c1a111fcaabf5142fe265cbf295c3def",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "hash": "42badc338e767559db38a67bd3e8020a92000e56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/lsp.json",
+      "hash": "5857e4b405c063c688b2a4eeed04a8eb86436be2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/majobroom-common.toml",
+      "hash": "5735fc17674f148735e874bfaf843164462db908",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/manure-common.toml",
+      "hash": "59f1984626944f7f44aa6b3e11c07440e25a187f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/neat-client.toml",
+      "hash": "72467f86b3b7b7cfa12be05652c8f797ecd472dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/oculus.properties",
+      "hash": "92ffdc74bbd81a8f24f28fa1fc88d59627153077",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/advanced_options.json",
+      "hash": "965027c2fd865f2e3865fa3ad3a1283432c4c122",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/2p2b/functions/andesite_casing.mcfunction",
+      "hash": "6797a647310b3c502a30ae5f70c2c5a4c8155a13",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/2p2b/functions/load.mcfunction",
+      "hash": "3fc85dc8bc0b0b1c6470366ddb77d5d8ff8b48ee",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/2p2b/functions/lychee/sculk_shrieker.mcfunction",
+      "hash": "eec3aa2c14f77ce01ea5ec7d21adba63f0141390",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/2p2b/functions/lychee/souling_recipes/soul_blocks.mcfunction",
+      "hash": "ce1f80ff340af6e495f03cd9474493aff60a403e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/2p2b/functions/lychee/vanilla_like_recipes/brown_mushroom.mcfunction",
+      "hash": "5a989c2201b7cc5252d2352b60b7be9ed0825795",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/2p2b/functions/sand.mcfunction",
+      "hash": "1af314d124530a8912a04bea21e9923a078c044a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/2p2b/functions/setup.mcfunction",
+      "hash": "11db748fb62baf81f23c7f97a03c038a22192dc4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/2p2b/functions/sulfur_ore.mcfunction",
+      "hash": "5f791ae5ff5a6de679d8f0c6745176b7870f750e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/2p2b/functions/tick.mcfunction",
+      "hash": "6c08e2ddb4b80eda881f473674c8ec671217efeb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/almost_bedtime/functions/almost_bedtime_book.mcfunction",
+      "hash": "e611a1e024ce46103098866d38f2a222ccb00df7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/anointeditems/recipes/anointing_table.json",
+      "hash": "220f02408cc35efccbd028aabcf26606062747ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/agronomic_sourcelink_2p2b.json",
+      "hash": "5b7c3c4297ae9b8323153e8f259f121abeedc5dc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/alchemical_sourcelink_2p2b.json",
+      "hash": "28d468a0ed4418184875e0aaf92baf027b8e7151",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/arcane_core_2p2b.json",
+      "hash": "2be3c00a42dfc97a3e601e26a1a77e5ea313b406",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/arcane_pedestal_2p2b.json",
+      "hash": "735f67bf68d96adb5405e4774b49854958d9dfe1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/imbuement_chamber_2p2b.json",
+      "hash": "7d73db6350190882ccc09538d3c90dacef1d3ab9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/mycelial_sourcelink_2p2b.json",
+      "hash": "774efddd6ad983cfd913501e6b308d31b0aa048f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/ritual_brazier_2p2b.json",
+      "hash": "acc8c254af05937ee76e397f1ab68ea2609c3e1f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/scribes_table_2p2b.json",
+      "hash": "cf290cb3d2f2675464991d82590b62591061d192",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/shadow_steel.json",
+      "hash": "2106b3a7f434c90ab2f1998e6dd868ba654b4af0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/vitalic_sourcelink_2p2b.json",
+      "hash": "8202c040bd7db15d9c8aa5defbdf79628ba91914",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/ars_nouveau/recipes/volcanic_sourcelink_2p2b.json",
+      "hash": "f6fc447f035f1477a7e49934c09884c495b8bfca",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/bag_of_holding/recipes/recipe.json",
+      "hash": "a82f4f0d523127ff2b2cd1c770771dfb4b16deec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/botania/recipes/cocoon.json",
+      "hash": "9ab603b6742dc66d33b5208242d86f648a6a8664",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/botania/recipes/elven_trade/end_cake.json",
+      "hash": "b86c6dc1b84a1d395505256495411b1c27854e68",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/botania/recipes/mana_infusion/phantom_membrane.json",
+      "hash": "c4e96bf393a281cae6580f82c75e84ad2b451772",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/botania/recipes/terra_plate/refined_radiance.json",
+      "hash": "60ecd7ec3cdd7261523de7238df15c7dbdc07b9e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/crushing/magma_cream.json",
+      "hash": "74338e7f440351c63b0fea8db9c2ab1a7ec33571",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/filling/bottled_cloud.json",
+      "hash": "d864fb62183dafe2c4943c2e1add52bea8f3dac9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/item_application/andesite.json",
+      "hash": "a1af73a0ec78fc08620338b0e7d4a470a05770ab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/item_application/deepslate.json",
+      "hash": "2933063cdb7c6392c303f1753251f6551e255042",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/item_application/refined_radiance_casing.json",
+      "hash": "4bac9adce3142644958f42e15e0689f8ac8556a2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/item_application/shadow_steel_casing.json",
+      "hash": "64672dd1e6d5cea175c79c099ef776787ce35d75",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/item_application/sp_1.json",
+      "hash": "7179cca892e14f93b2e7e6456eb1c7429c8f11e8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/item_application/stone.json",
+      "hash": "2c73f4a1b68d11db9d76d5ebd2e07709fb26732c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/mechanical_crafting/chromatic_compound.json",
+      "hash": "3565c77d30b45fd7edfde7c6e4f27dfbc555ff56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/milling/magma_cream.json",
+      "hash": "9da0d85908e1cfb1e914ba0bede108d20c8d759c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/milling/potassium_dust.json",
+      "hash": "7d7a8c4e1ecdc074f375e12a63058bf74bd1b376",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/milling/string_from_straw.json",
+      "hash": "1b57ee2727723706467163b1e988883e0488de74",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/milling/zinc_dust_from_crushed_zinc_ore.json",
+      "hash": "ad06ca1f4e3bd2c11ede0048126d5926d300f5a7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/milling/zinc_dust_from_zinc_dust.json",
+      "hash": "b3929e43d44c1513dcc83a195c2b5a39a84291d5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/mixing/calcium_oxide_dust.json",
+      "hash": "1894819517b447d11e9470b240eea528187c3f20",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/mixing/carbon_dioxide.json",
+      "hash": "25c82a6a1a451b0f0a95cabe717f7a2cf5ed9f4d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/mixing/copper_dust.json",
+      "hash": "5237a98edfd5bf22baef9416b84e79e1120f00f6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/mixing/copper_ii_sulfate.json",
+      "hash": "b2621161b85a5fdcf30a6bd6eb212a11e65d6b6d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/mixing/iron_dust.json",
+      "hash": "51a8e51a7ef6aa7691e2598f1d70145ff8b4611f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/recipes/sandpaper_polishing/flint_and_steel.json",
+      "hash": "e9e91ac1edf8ff690342fe781f09e5fe2acde0f6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/create/tags/items/blaze_burner_fuel/special.json",
+      "hash": "8ba98bf390a326abeebfd5d84be5f740c935a8b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createaddition/recipes/mixing/biomass_from_manures.json",
+      "hash": "fa39c174b7da281d65cf1a61804d2ffedf2990b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createaddition/recipes/rolling/blaze_rod.json",
+      "hash": "ca41338827334cbfa8bcbae8c2f014bdefbfeb45",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/andesite_mesh/shift_dirt.json",
+      "hash": "852a201c7001d58da711fc481c257a474343261e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/andesite_mesh/shift_gravel.json",
+      "hash": "25f7f6139cf95fd959582894d70ee1b3ad8d51f0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/andesite_mesh/shift_mud.json",
+      "hash": "e0c4853d5dcfffcbfc9192cc58e42b606fa874f0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/andesite_mesh/shift_sand.json",
+      "hash": "a97580a82dd30efa4c2197a54606768807071e06",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/brass_mesh/shift_netherrack.json",
+      "hash": "cf36587cb17c67cbf6a94712b50b14cc0c3b65f3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/brass_mesh/shift_soul_sand.json",
+      "hash": "464cdd6a591cd3a4c186846abba92353e35a7980",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/brass_mesh/shift_soul_sand_waterlogged.json",
+      "hash": "e6b8654beee481f48609f3f6864a78caaba64e20",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/brass_mesh/shift_soul_soil_waterlogged.json",
+      "hash": "9ab51db2713d2bc4659311085f1c7d093dd85a70",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/dirt_strig_mesh_waterlogged.json",
+      "hash": "a4377bdc8bb3488fbd85c3b220bf8a3eeef4e850",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/strig_mesh/shift_gravel.json",
+      "hash": "5bcb2d5a3f74ac20e00fd6fc59a95e1c238744cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/strig_mesh/shift_mud.json",
+      "hash": "b3685c4487073307f84cdf556cafcfa06d68b40d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/strig_mesh/shift_sand.json",
+      "hash": "fe59b158f4e229db7e454ba9e0693416a3a04ca1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/zinc_mesh/shift_dirt.json",
+      "hash": "5ffb3f32a51b5736138e82d24d05cc0a5dc5d50c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/zinc_mesh/shift_gravel.json",
+      "hash": "c73a71bc2a8f1f6e851d34fbd02942631dca549d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/zinc_mesh/shift_mud.json",
+      "hash": "a75e87946590d4de559d9ad80c6e259da56d9427",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/createsifter/recipes/sifting/zinc_mesh/shift_sand.json",
+      "hash": "55c2f9dbec9217d7a06946eebe26626e8a0711cc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/extractinator/recipes/extractinator.json",
+      "hash": "c5bf94beb320309d9054a9228799e793e96777f2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/extractinator/recipes/silt.json",
+      "hash": "b175d6a4c0ed07158dc0691dbbef96fa88e7f785",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/extractinator/recipes/slush.json",
+      "hash": "ea44cd816bb1fe296855dd875fe2d25b84ef4e39",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/farmersdelight/loot_modifiers/straw_from_grass.json",
+      "hash": "62cb1e2ef38109476aa621dd23217ad23f398fc9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/farmersdelight/recipes/cutting/bone.json",
+      "hash": "a19807e9c4d7a24aad50fc5b45b4f4e34e5e0858",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/farmersdelight/recipes/cutting/magma_cream.json",
+      "hash": "98b51d5c0a61fd1f3acba1ae2fbb3910906d23d8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/loot_tables/blocks/force_leaves.json",
+      "hash": "33077d163e1a4843329bfb1b38c03117c2a60fa6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/force_brick.json",
+      "hash": "d4db3ef8a189f61db20a679aa11726ff69b8e400",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/force_rod.json",
+      "hash": "fe3205908d092553ebc7f5636f024923fde86040",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/force_shears.json",
+      "hash": "cb08febae39837a2ca7298c05b090020e1d42267",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/gold_power_source2.json",
+      "hash": "84a4486a524f80ec8878c340eba929c4dd8a78d8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/infuser/convert_bone_block.json",
+      "hash": "6f112dfe29b022ee2466ad45089e3128055b8914",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/infuser/convert_cactus.json",
+      "hash": "ca3023ed76bbe429fd49876bb8c0c03f9a72e8b1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/infuser/convert_diamond_heart.json",
+      "hash": "a1e59c498e7c81ba6cb93a70d6d3f480e1d7c63d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/infuser/convert_filled_force_flask.json",
+      "hash": "d1b31b1168afc48fc2c4c58c91d6f5f1389966d1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/infuser/convert_forgotten_hat.json",
+      "hash": "a9cbe0499e3a16bdda123df52b4287fba1c2c52c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/infuser/convert_gravel.json",
+      "hash": "3079661fa77d634ae9bf659c8507dd462136d692",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/forcecraft/recipes/transmutation/infuser.json",
+      "hash": "ff09054dfb106c3b817f3ccb6674aaceb284a009",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/gateways/wilden_guardian_gate.json",
+      "hash": "75551668a359168ffb78ab49756a8e6bac425a01",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/gateways/wilden_guardian_gate_large.json",
+      "hash": "20b84aa0d7e63e921ab053a6f3190694e7b74648",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/gateways/wilden_guardian_gate_small.json",
+      "hash": "8866c905efc75b67c1f695bb8756f45b4f61cd65",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/gateways/wilden_hunter_gate.json",
+      "hash": "449c70465ed520701dcf2609214afd164dfdcb65",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/gateways/wilden_hunter_gate_large.json",
+      "hash": "bdce93ecd32df7a259040466313c269b725a229b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/gateways/wilden_hunter_gate_small.json",
+      "hash": "db10fb113aea04513cf4143024f6ae0745463976",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/gateways/wilden_stalker_gate.json",
+      "hash": "53078f5fe3de6cff34f948bb0d30f8c46403e5c8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/gateways/wilden_stalker_gate_large.json",
+      "hash": "0c50502ffc67a8baa581704d1355e2f221371044",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/gateways/wilden_stalker_gate_small.json",
+      "hash": "65141678ad4ed4bc289a179e0928b7c4d43a74a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/recipes/wilden_guardian_gate.json",
+      "hash": "5838ff11dcb12a5a4ddcefc09992f9dbe59b8daf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/recipes/wilden_guardian_gate_large.json",
+      "hash": "9216ea634f504b6bfd49a330e0968f707a40b3dc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/recipes/wilden_guardian_gate_small.json",
+      "hash": "1d697e6c6fc4c2a03f12a4b211629db6aa354aad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/recipes/wilden_hunter_gate.json",
+      "hash": "c29d5e224a70a4c8f3a8805d6feaa7a6a157d694",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/recipes/wilden_hunter_gate_large.json",
+      "hash": "45d26244075ec7375954d36f8c48cb29dc98443d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/recipes/wilden_hunter_gate_small.json",
+      "hash": "e4d2080c1ffafdc2ead071ab8788610f1e45b23c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/recipes/wilden_stalker_gate.json",
+      "hash": "1ac64f89dfc72754d27ee865bd46acc4c6de6970",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/recipes/wilden_stalker_gate_large.json",
+      "hash": "ec50c49b650a4acd52b413881c59e84395d31195",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/gateways/recipes/wilden_stalker_gate_small.json",
+      "hash": "d3b50be4c4c78f40638878fba77b0c3bfcca6479",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/anvil_crafting/creative_blaze_cake.json",
+      "hash": "b5fc0a5f0243a0c663b7c11c4311949c3edce78d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/anvil_crafting/creative_crate.json",
+      "hash": "f03700d0c7cdaf8fbfc63a924fca9999ee01bd63",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/anvil_crafting/creative_energy.json",
+      "hash": "422a91c02ebe2b58a77023dacef7050d647ee68b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/anvil_crafting/creative_fluid_tank.json",
+      "hash": "ad60e97e1b858e4f241dea972f5d715dca9848cd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/anvil_crafting/creative_motor.json",
+      "hash": "89ffd093fb62a6ff342d46801dbbf3340d4d74b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/anvil_crafting/creative_pool.json",
+      "hash": "59ac47cafb5a6492cf6a77c3424a27888b2cae4c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/anvil_crafting/creative_source_jar.json",
+      "hash": "36e91c3958e7b649913b655ad7dd4e5fc35f9abc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/anvil_crafting/creative_spell_book.json",
+      "hash": "e86892e1deca2cc3d5384d5beef0237c0b6d78cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/anvil_crafting/super_skillet.json",
+      "hash": "e218908e290f244cbb4e3dd05962db03c1dff5a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/bamboo.json",
+      "hash": "887779ce21713309220cb1a5fd0ed9d0761042b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/budding_amethyst.json",
+      "hash": "719bf002778cfdf6b5457fb4cd2f503db200bf43",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/calcium_oxide.json",
+      "hash": "94cab97e5d79e2ca1d7cb686789e33a1b0f51cb6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/dig_sp_1_by_force_shears.json",
+      "hash": "8d7dd64fb1fe73ee24ffb34bd66990f546e904d7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/dirt.json",
+      "hash": "eafcf01797ff50ec81c000a39d98eeac325ee57e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/force_ingot.json",
+      "hash": "429aa44929bacb798296abd483e540a3aeb60652",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/golden_power_source.json",
+      "hash": "021ee1f52a568dc565272864b3aea0ebcd6cc9f7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/heart_of_the_sea.json",
+      "hash": "480eb47914cc9046876129bb757f71dc78f92825",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/sculk_shrieker.json",
+      "hash": "2f6477ca25103e610ba88072a72223bb825c83c6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/sugar_cane.json",
+      "hash": "673d8146e4e956642a568f63a2d1fcae910c47c0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/block_clicking/sulfur_ore.json",
+      "hash": "ab3a10740fbbdf54615b144ca3fc334f82c91be6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_burning/iron_dust.json",
+      "hash": "58442aad2f345551a3dbeab52c394a34b59a39cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_burning/lighting_summoning.json",
+      "hash": "8fc03234e9ab6bd632a7a0f1300eca529b269a08",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_burning/netherrack_from_nether_wart_block.json",
+      "hash": "1fab35ed65a97df7236b290eb3b007d851fe5e3b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_burning/netherrack_from_soul_soil.json",
+      "hash": "95b4a22815a797e0485293fd563f20a610e3d8f5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/calcium_hydroxide_dust.json",
+      "hash": "400f8ac90fb488350466e014f07930ef7f1b0ba3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/chlorine.json",
+      "hash": "c637b424f41e30e344911aed5c7cab3e1f26acb9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/drygmy_charm_trun_fourteen_sick.json",
+      "hash": "3ea8abbed4512148e62f0be7b2bcab9f738a265c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/hydrochloric_acid.json",
+      "hash": "bdf5a9648eb98e9273f182e610312fedf02cb251",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/hydrogen_fluid.json",
+      "hash": "442edeb5951049a6737716dd92c79ff5e4755004",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/iron_dust.json",
+      "hash": "f2ae973d4db8a5c03fcd6d93c34f78d4fed86354",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/lava.json",
+      "hash": "302588373c12c88e13ca99cba7b2c2cf8b4afa97",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/netherrack_from_cobblestone.json",
+      "hash": "366231c8555b662c55252d2432e20ed5e0dc696a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/netherrack_from_gravel.json",
+      "hash": "ee4e1d8363afa169f2b85ca1dfde2c5faca544eb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/potassium_from_coarse_dirt.json",
+      "hash": "89c0e81142e7adc9aacad4f4e58c0f7e12cd65bd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/potassium_from_dirt.json",
+      "hash": "2b3943c25b3e0337e5114ed0a6ebfb3d45668aca",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/sulfuric_acid.json",
+      "hash": "07a69739c4ab18b17fd33641b923d9036e13f459",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/tag_nitrate_dust.json",
+      "hash": "bf75e87270a857f18e38a91bde8d6234e780b742",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/item_inside/water_wooden_bucket.json",
+      "hash": "a37fce948e402f0741a1bdda933e488ad5c998d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/lightning_channeling/brown_mushroom.json",
+      "hash": "8bcb8581c8b542f3802e7cbfec6ab1392c886ae3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/lightning_channeling/nitrogen.json",
+      "hash": "b7ef4c4adeb02ebec19f9d1dc04acf50fe99151b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/lightning_channeling/soul_blocks.json",
+      "hash": "6c31fc55f2b12ea9a0e542aacda23e0ee14359df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/lychee/recipes/lightning_channeling/zinc_dust.json",
+      "hash": "72d64eecb1988cb5f3cabca8dbe29983e3ca3c3c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/meetyourfight/recipes/devils_ante.json",
+      "hash": "4dc40ead918073cf55e6eb08859354f760411817",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/meetyourfight/recipes/fossil_bait.json",
+      "hash": "22d18a8083928e3198e16474d10e266fb59ed211",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/meetyourfight/recipes/haunted_bell.json",
+      "hash": "059d9bcb97180f6321c40f91460205a6270afb42",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/minecraft/loot_tables/entities/elder_guardian.json",
+      "hash": "afa619237299cdc7c7c2101cbcfbd44762e70cab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/minecraft/loot_tables/entities/warden.json",
+      "hash": "a3cf72ebc9abae236c106f52aa3d938307a0a25f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/minecraft/tags/functions/load.json",
+      "hash": "11da4b3406cfd0f3508ae971ecc0d7861ad668a8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/minecraft/tags/functions/tick.json",
+      "hash": "4d9d72245d98c5fccf6717fbd3fa14d2f6fc35ec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/altar.json",
+      "hash": "3fe2739ffd18a540a0f51ec4a116e7c37475b779",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/chest_from_force_planks.json",
+      "hash": "915e6f353c0629fe13cf52080d4aae87a0b29db4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/chest_from_force_wood.json",
+      "hash": "578a9c517e16b7356a3c0262af1d4a446688c8e9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/cobweb/cobweb.json",
+      "hash": "aaecdd17ec8b52846b325f1ecda7e152b254eb06",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/cobweb/cobweb_mirror.json",
+      "hash": "579831d85b0cb187890f2c4b3c17a990dbe5ac43",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/fertilizer.json",
+      "hash": "a98707f6fc99e227b03e9157f57341777a966969",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/leather.json",
+      "hash": "bb1d0efad832fb92ddd74e2163cf51b68d79fe62",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/rope_exchange/farmersdelight_rope.json",
+      "hash": "a8e7374ebf75c9203e2f28171f0af67b9d50daa6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/rope_exchange/quark_rope.json",
+      "hash": "d14c989c219a7ae151a03f1dd8dcf637f87de76d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/quark/recipes/shulker_shell.json",
+      "hash": "6680dc058c55c34c7fe6b3f3e73196a01bd9a2ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/item_output/orb_of_origin.json",
+      "hash": "a2f0241ccc15b023c81685d7c4c104d5d5ff9ef5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/item_output/sulfur_dust_from_bottle.json",
+      "hash": "50ada2d04a45cdffba4fdc139e934f4ce0a96f5c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/item_output/sulfur_dust_from_wooden_bucket.json",
+      "hash": "9be7fb20e80f3927c96d93f6a5c09606fa878972",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/mob_output/bookwyrm.json",
+      "hash": "107ad1c1e189fb9aefd6708e40dad53a40f9ada3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/mob_output/cow.json",
+      "hash": "15106596159672a4f413f02cac36cf844fe90672",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/mob_output/drygmy.json",
+      "hash": "a0e664722f605b3489b0a2503260d1b03d4d5ae2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/mob_output/elder_guardian.json",
+      "hash": "5b386c3fd781b416ab825c7fe5ecb09fe7016099",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/mob_output/rabbit.json",
+      "hash": "ca113c3c9ed856b50bb0a279669320af289259d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/mob_output/starbuncle.json",
+      "hash": "c1e5a4b47d33c9102daf74fbbd6a1cc0fb1bdb10",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/mob_output/turtle.json",
+      "hash": "26516f4d495309c676f8c4e2662350e39affa5e0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/mob_output/villager.json",
+      "hash": "ddf52e36790d5a8b283b4f904d2238655767c242",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/summoningrituals/recipes/mob_output/whirlisprig.json",
+      "hash": "b3e6cbfb1ab37028d7cdefb520d8c8ea483a3154",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/data/tiab/recipes/time_in_a_bottle.json",
+      "hash": "443594fbce9b63c013dac13e7d548c9d88fd9490",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平Peppa Pig\u0027s Burning Broom[数据包]/pack.mcmeta",
+      "hash": "736d0072d455a6fa09d5266782ae1b13add3bdf0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/data/2p2b_origin/functions/add_stages_when_chage.mcfunction",
+      "hash": "7928d30a9673da4845ca12621e87724a0396585f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/data/2p2b_origin/functions/load.mcfunction",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/data/2p2b_origin/functions/remove_stages_when_chage.mcfunction",
+      "hash": "26396b7c708e5ecfb0201c265de02c98e2feafff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/data/2p2b_origin/functions/tick.mcfunction",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/data/2p2b_origin/origins/gamestage.json",
+      "hash": "5e65dcbb4c871e49f3cc19335e9e78feca255da9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/data/2p2b_origin/origin_layers/origin.json",
+      "hash": "cced056ca55ef1c48da4baeb1c953c1400e2f31d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/data/2p2b_origin/powers/gamestage.json",
+      "hash": "b7c44b5b6a6cd09a7ebf1c3168b458695ab535f2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/data/minecraft/tags/functions/load.json",
+      "hash": "ceacb62c5be4878366d563dc8a31ffe7ba52e76c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/data/minecraft/tags/functions/tick.json",
+      "hash": "379922e07c30174a6af1b18a0c7fff27fd4670de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/data/小猪配平起源Peppa Pig\u0027s Origin/pack.mcmeta",
+      "hash": "14a16cb4fd30d06e115cdd6bdbd508ed2e65a03b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/MC百科闪烁标语.zip",
+      "hash": "03cf7cd96ddbb861fce7aadc18410f304e6d960d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/discholder/lang/zh_cn.json",
+      "hash": "3c53f5725f93bb1b8f242bde7535033ef8253cea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/drippyloadingscreen/locals/zh_cn.local",
+      "hash": "6521b90134bf96ba3d20107fbd6b73f76c79954f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/extractinator/lang/zh_cn.json",
+      "hash": "306af8b4c0fac15d02d3ed502eb3aec9b898aa36",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/forcecraft/lang/en_us.json",
+      "hash": "93be85fc94ef817452a09778aa7c34fc3d56e3d0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/forcecraft/lang/zh_cn.json",
+      "hash": "3771c4a028cda5a3790b131df9031ec3b786cfc5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/gateways/lang/en_us.json",
+      "hash": "f9f862af4d92ea0e4d41c8f7765d75d4328dc4d5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/gateways/lang/zh_cn.json",
+      "hash": "0b4c026b6bab042879fb884f30d6d1fba2272097",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/heartbalance/lang/zh_cn.json",
+      "hash": "e264503ebbcb40d9e694ac7784c679ff20847710",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/manure/lang/en_us.json",
+      "hash": "67ed45c52decb283cea57fed3ef2598027bd662c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/mobcatcher/lang/zh_cn.json",
+      "hash": "2c43047bd29c2f65d77b409cd55a5f1782e9bb79",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/packages/lang/zh_cn.json",
+      "hash": "9cf9fe3958ab123b5ed767071568f985e54720c8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/questsadditions/lang/zh_cn.json",
+      "hash": "b73d2b4d24854c259cc81078e3a7ececa1ee580a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/sliceanddice/lang/zh_cn.json",
+      "hash": "b52ab7bcad3b3bd39226aaf504632a9e1ef3b838",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/solarflux/lang/zh_cn.lang",
+      "hash": "20fbaf78593654bd65cc3c09e73c6eaa0e0e0113",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/sulfurpotassiummod/lang/zh_cn.json",
+      "hash": "6dc190a62f616696d5e5037da5f9c3bdc2c16af1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/telepastries/lang/zh_cn.json",
+      "hash": "1cc72e541bbc347eb7688cd89b33cc695cc843a5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/assets/villagersellanimals/lang/zh_cn.json",
+      "hash": "8895e8d3b9b3f9abb815b28b73f34bc68597bc39",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[汉化资源包]/pack.mcmeta",
+      "hash": "736d0072d455a6fa09d5266782ae1b13add3bdf0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/2p2b/lang/en_us.json",
+      "hash": "f30029d8762d554e328177efd3692a2a24d337e9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/2p2b/lang/zh_cn.json",
+      "hash": "16a94515e8c908742aab13d27710663d3532cb09",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/2p2b/textures/gui/background.png",
+      "hash": "5cfbb801558d1b276f624967c8c9ac22d5b4237d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/2p2b/textures/gui/title_en_us.png",
+      "hash": "27402abb515db950186a8cb28c4e0d19a52b7abd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/2p2b/textures/gui/title_zh_cn.png",
+      "hash": "38dbc71d908e2c623cbde86cae988c6de5b4d823",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/createsifter/lang/zh_cn.json",
+      "hash": "a11478d94862629fe219e177c652bf52783a26a5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/lychee/lang/zh_cn.json",
+      "hash": "4633d2ce037cd3881e4423611a25e6d35da3ced2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/minecraft/sounds/event/loadedmusic.ogg",
+      "hash": "cf9837095e0b2eeb0b42112a37b0eabaacae9e92",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/minecraft/sounds/event/summoning_music.ogg",
+      "hash": "d6d7cf3bec5e2cadcda5068837b58894461c4ba2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/assets/minecraft/sounds.json",
+      "hash": "44940e902f00fbc149b193c84149370ffe6970a8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/小猪配平Peppa Pig\u0027s Burning Broom[魔改资源包]/pack.mcmeta",
+      "hash": "736d0072d455a6fa09d5266782ae1b13add3bdf0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/origins-common.toml",
+      "hash": "4d3e55d9a1070741f23c075ef5691833f91890ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/packages-client.toml",
+      "hash": "7794617b44aeb92b99af84e0ff62738d75d84f2d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/packages-common.toml",
+      "hash": "2dbaba516427040b66c7822c9403a9ed2ec03e35",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/quark-common.toml",
+      "hash": "caf1e1a37ac7075dd3bbd7df8da709f97872f087",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/rubidium-mixins.properties",
+      "hash": "5656ec2a84545a98f28a695a2c73d2e47da15860",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/rubidium-options.json",
+      "hash": "75de48ce76181213698ee77d00937f1031d0e3d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/searchablecontainers.json",
+      "hash": "01057fa91c31a28b671f3c290b45dbb871ad3cf6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "hash": "3f545ec683be213b684475b39393a01d1faadbcb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/simpletomb.toml",
+      "hash": "eb269e48c297cf7f3171c31af8c43f78a843c20d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skyblockbuilder/common-config.json5",
+      "hash": "70038cec0c6f78ea3fdddeef10cf536316f02a52",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skyblockbuilder/data/biomes.txt",
+      "hash": "8c984ca2ee8afb7ebb4702c0e9768643df493aa9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skyblockbuilder/data/carvers.txt",
+      "hash": "c6c7ea66bc67ebdc6d61f1e9b3ef12b3974413b4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skyblockbuilder/data/dimensions.txt",
+      "hash": "cd535b2a04da8d5cfdb9f50fd2c619dfe8ba3207",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skyblockbuilder/data/features.txt",
+      "hash": "58cd78ed092a81c8850efcdddec33c32dd7bd133",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skyblockbuilder/data/structures.txt",
+      "hash": "ca16b70af7b456222170304f77144db3aba2e2f8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skyblockbuilder/starter_item.json",
+      "hash": "4fff6e8ef86a821b4f6f7991e7557ebce49ddad4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skyblockbuilder/templates/default.nbt",
+      "hash": "bd2d6a1bd5f4a61852f1cd257681dbaed66153ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skyblockbuilder/templates.json5",
+      "hash": "2f777ee8d80c53e181ebf76ab43e12037bde43eb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sliceanddice-common.toml",
+      "hash": "5ce6ebde9d15a3fe7cc790c35e12746bbf87dd18",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/smoothboot.json",
+      "hash": "4b0b137b7f2d344fb0da77dc629735caca7229f4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/custom_panels.js",
+      "hash": "8329b09bd7a028c7839af0337d6f855b011c9fb3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/main.cfg",
+      "hash": "da4a6c4b8c88c02950c139b53d262742c3b9bee1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/panels.cfg",
+      "hash": "65f1abed1634bfa3c5ffe60069196b146652ed97",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/recipes.cfg",
+      "hash": "9ed5107a8c0629d471d7e70c7537a07cf4ae6088",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/textures/blocks/example_base.png",
+      "hash": "4253410bb179c1e213f766d5a5bdd59ba577dbf0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/textures/blocks/example_top.png",
+      "hash": "6ab5811e071c15559234ec0b9d961a10bf4fc7ec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/textures/items/example.png",
+      "hash": "b540d3d2cfc256d86599b731b6141d97f5ddbcf3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solcarrot-client.toml",
+      "hash": "2dba9aefd27e44abc3b1c5434acb381a63451ff0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "hash": "43a0ff8fb13ce9b713dd3cbb215e78a542f34012",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "hash": "da1dcd49550900562522aa4556edd0e6b68d6bec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedstorage-client.toml",
+      "hash": "9e123b50ee4a85ece09341ab6ea6e29625c80a43",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedstorage-common.toml",
+      "hash": "4b085457c63b1615fb9e9ffa525940a32017c1ee",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/staretilltheygrow-common.toml",
+      "hash": "d38eaaf6961091708b8a79970422895afb651adf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/stevesminipouch-client.toml",
+      "hash": "ec62d76e4f98954b4af11ae612e5eec5b5733f7c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/storagenetwork.toml",
+      "hash": "5b3baa5f4599fbfee5828bc18bdeca6c2db1e01e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sulfurpotassiummod.json",
+      "hash": "9d224190ee6f873ae17dda74d5d07abc45f8bce2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/telepastries-common.toml",
+      "hash": "91abb259c0d794c9515130e2fb93b42832336c41",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/toastcontrol-common.toml",
+      "hash": "403387c330db3ea6985aee141be95878bb440f83",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/torchmaster.toml",
+      "hash": "9ceb1a3f640ef519e8fbfbc7570a9cfdb0390fa5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/visualworkbench-client.toml",
+      "hash": "33a2b1590e0cae126f521bafb1fe3c0407cc4651",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/visual_workbench.json",
+      "hash": "935593b7310a0b6875c61755ea866d7948a9127d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/WagYourMinimap/config.json",
+      "hash": "fe3786504b92ec31941c25aef4ad0ad5da9a8fd6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/WagYourMinimap/LOCAL_小猪配平/minecraft/overworld/-1,-1.zip",
+      "hash": "a86d2bddd92d3f55d75bc0a379fdc51cb43831d7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/WagYourMinimap/LOCAL_小猪配平/minecraft/overworld/-1,0.zip",
+      "hash": "09441df083f94eaf67d323aeb8fbf74e197fa762",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/WagYourMinimap/LOCAL_小猪配平/minecraft/overworld/0,-1.zip",
+      "hash": "1992030768b740ef106430407c8d3b161984b0d3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/WagYourMinimap/LOCAL_小猪配平/minecraft/overworld/0,0.zip",
+      "hash": "bfb21eb7b2301c830f3ac22d82affcba2926c641",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/WagYourMinimap/mobicons.json",
+      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/well-rested-config.toml",
+      "hash": "9ab58063dd657ff82f86b1689b905eb6a8a93261",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化]canary-mc1.19.2-0.1.3.jar",
+      "hash": "fb457b23ae06cb7540515835a923294cb7bb0776",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][FPS减速器] FpsReducer2-forge-1.19.2-2.1.jar",
+      "hash": "5989e6103fe38e50c7335eba000e358c1f887f17",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][冥王星^]pluto-mc1.19.2-0.0.6.jar",
+      "hash": "65643b386dab99cb18cd86c21aaf7e85bd2db141",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][快速载入^]Fastload-Reforged-2.6.9+1.19.2.jar",
+      "hash": "ec0ef78a74af71033f661589f17415e422197074",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][星光] starlight-1.1.1+forge.cf5b10b.jar",
+      "hash": "3d80b848c966841deeeba70305e38a29b7e3788d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][氪Forge版^]pluto-mc1.19.2-0.0.7.jar",
+      "hash": "ce422ae79348bc7147505b0df6e5918639e2c36d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][流畅加载重置版] smoothboot(reloaded)-mc1.19.2-0.0.2.jar",
+      "hash": "8dd9eee295f36f00e1332545b744c17d23fa96d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][渲染优化]betterfpsdist-1.19.2-1.7.jar",
+      "hash": "e1e7e0b937db9f26ef93c18344fa6d32bb4b0544",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][铁氧体磁芯] ferritecore-5.0.3-forge.jar",
+      "hash": "59245ec84ca1e3639237f5a04fe6f7556a9ec2bb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][DJ村民^]disc_holder_and_dj-2.1.1-forge+1.19.2.jar",
+      "hash": "9a5acf482a80029ca2f15f552b73eedebf6d249d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][仁慈的苦力怕] lenientcreepers-1.19-1.0.2.jar",
+      "hash": "4e52dd5c2b50cd51f2f91fb15d40c1fd0bc07fa9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][可繁殖的杀手兔]breedablekillerrabbit_1.19.2-1.9.jar",
+      "hash": "79d24e8cd320cdd2a180e1c738a9ec5470839525",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][夜间模式无处不在]DarkModeEverywhere-1.19.1-1.0.3.jar",
+      "hash": "d0927266e88684ae4076302f9851bd17ae424412",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][布罗艾：重铸]blahaj-forge-0.1.2.jar",
+      "hash": "56e461f2fb0223cd09b85276a9a942eada7c6a01",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][界面进入提醒] Ding-1.19.2-1.3.0.jar",
+      "hash": "8d5e12ac2e5cfaf079cc5cff463ee4ddbbb7e37b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][相约星期四]With_Thursday-1.19.2.jar",
+      "hash": "48fee108ad18902f6b8092cca3fad60970e72508",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][粪便]manure_1.19.2-1.1.jar",
+      "hash": "a555d6890a46a170f60519d416d6fac609c0aed5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][精力充沛^]well-rested-2.0.1_forge1.19.2.jar",
+      "hash": "5bcc8654bc0b1f42491ce061079def06765edfae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][行将就寝^]AlmostBedtime_v2.2-1.19.2.jar",
+      "hash": "a693d0b61e89feebbfbc7f6a4a9ad88cc68e9a3d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[元素][魔女的扫帚] majobroom-1.4.4--1.19.2-forge.jar",
+      "hash": "41ad36956a205420e3a7d500bf9aad20b7581bd3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容]gunswithoutroses-1.19-1.1.1.jar",
+      "hash": "6c2fdfe353e3528120c64430887627881154cb4a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][不止火把] torchmaster-19.2.0.jar",
+      "hash": "1b030fdbdc5783c0619ccaea8c315820071bb63b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][传送蛋糕] TelePastries-1.19.2-0.5.0.jar",
+      "hash": "3412ca7ae62f20bfbde42e267a27a7c12170f7bd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][化学库]chemlib-1.19.2-2.0.13.jar",
+      "hash": "cb24dfcb0ddc38a779e3d3473bc4d43eaa67aae1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][压缩空间]compactmachines-5.1.0.jar",
+      "hash": "5d4fdeabe79e51572e47c63686e571c43a7aa970",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][可种植的金胡萝卜^]GoldenCrops-1.19.2-1.5.jar",
+      "hash": "94ad9d9285cc0711e87ec6259752864e56455b2f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][夸克] Quark-3.3-371.jar",
+      "hash": "f1b7fde4c239a7ac21ecd2aa0f4f2e910cf6771a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][建筑小帮手] buildinggadgets-3.16.1-build.15+mc1.19.2.jar",
+      "hash": "6ba053cf361cb5dab7beec13a2789bbb3a8e399f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][往来] Contact-Forge-1.19.2-2.0.0-Beta.jar",
+      "hash": "ec1d9d4bde561a0839bfb9f40f6882b2af98151d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][手袋]BagOfHolding-1.19.2-1.0.0.jar",
+      "hash": "31aae15b18c86873ee2a342e5033b5f3ccce641e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][打包胶带^]PackingTape-1.19-0.14.0.jar",
+      "hash": "737e8e8d381a99acd687fd7b24c6314ae6f98996",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][技能升级]ImprovableSkills-1.19.2-19.2.6.jar",
+      "hash": "f1d448c8c58f04325f78f1b8e6adfa62d84b5cab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][提炼机]extractinator-forge-1.19.2-2.0.1.jar",
+      "hash": "f0a3cc4c4b4781cacb546a8be1257a2a96f59f9e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][日光通量：重制版] SolarFluxReborn-1.19.2-19.3.7.jar",
+      "hash": "c4fbedc474fb704444556ab4ea5568580f80a5e8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][时间之瓶] time-in-a-bottle-3.0.1-mc1.19.jar",
+      "hash": "791e96fd09a35011319711013cce0c1bf0cb9fe1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][更多的龙蛋] moredragoneggs-3.2.jar",
+      "hash": "02108557e33d0fe2c82de69c2629306aed56d738",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][月亮事件] Enhanced_Celestials-forge-1.19.2-2.1.0.2.jar",
+      "hash": "de78212ec7ad4680e35081978bd81c296a9f4312",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][木桶] woodenbucket-1.19-1.1.0.0.jar",
+      "hash": "d970b809339e9bd341739b6c7e6f5a7aec9b5259",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][村民售卖动物]Villagers_Sell_Animals_1.1.3_Forge_1.19.2.jar",
+      "hash": "777a7358cf607ae2bd0ebb07f39924f6af023236",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][村民物品化／简单村民] easy_villagers-1.19.2-1.0.0.jar",
+      "hash": "daf16e49a7c3cccbc8ace88f23ade85e775b783d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][永恒之门]GatewaysToEternity-1.19.2-3.1.0.jar",
+      "hash": "9b5aa6623d361d7364925cb2e2f732715f2a3fe4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][照相机] camera-1.19.2-1.0.1.jar",
+      "hash": "4a84dc594e0ab4d7534d00115115c7892a622c84",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][物品涂覆强化]AnointedItems-1.19.2-release1.2.4.jar",
+      "hash": "f64478a84e0ebd254c33b6bb7f1b1a9c11a1c66f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][生命平衡^]heartbalance-1.19-1.0.2.jar",
+      "hash": "2cfede6b3fd68b12792a81c62636c7f35119308e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][生活调味料：胡萝卜版] SoL-Carrot-1.19.2-1.14.0.jar",
+      "hash": "55625f32bc8e0c5b28a4420fc6bc6211bb771a8a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][硫与钾——更多的火药^]sulfurpotassiummod-1.19-2.3.4+Forge.jar",
+      "hash": "4e6da4e15a76273ba0c3b8c623a0ab548730190e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][稀有精英怪] infernalmobs-1.19.2.3.jar",
+      "hash": "f1a3175777c8c5689f60605709c29819a77e3a3c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][简单存储] SimpleStorageNetwork-1.19-1.6.4.jar",
+      "hash": "05c706837db4295db930e96a5d1f6343419bc994",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][简易猪灵] easy_piglins-1.19.2-1.0.0.jar",
+      "hash": "c00c2329f862bd77e87d033003dae16ee08580c5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][精妙存储] sophisticatedstorage-1.19.2-0.6.16.276.jar",
+      "hash": "f14eae6644ee56dccd911ee7f20b5affb3ae36c1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][精灵球^]mobcatcher-1.19.2-5.jar",
+      "hash": "debb82ca61befa65fa540e4d831b3d9ae91e70f3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][自定义包裹]packages-forge-1.19.2-3.4.jar",
+      "hash": "d51adf7bcf8b472fa27772064b75d43a98d44d02",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][起源]origins-forge-1.19.2-1.5.0.6-all.jar",
+      "hash": "0056ed5ed3660fab2af47de5fd1e74a28a007faa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][起源：通行] origins-accessbilities-1.19.2-1.1.1.jar",
+      "hash": "e998599532e7d48ed281f733dc019052966c3945",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[内容][迎战] meetyourfight-1.19.1-1.2.7.jar",
+      "hash": "11b6ddf5d27fe598e8d4fa8ead13f1bce8dca2b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]architectury-6.3.49-forge.jar",
+      "hash": "0887832c2edb2c035be30b29b734403429ed2ff2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]AutoRegLib-1.8-54.jar",
+      "hash": "794189bcdd8d3f492c605d9842d288bd9b686ee8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]balm-4.5.3.jar",
+      "hash": "41321fd7ffbdb8d8405766582c442cf1cfb131bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]Bookshelf-Forge-1.19.2-16.1.11.jar",
+      "hash": "34bfef084be1d3f5db82625d1e053c7e1b836cf4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]bucketlib-1.19-1.0.3.2.jar",
+      "hash": "587c45533ac574464f2d42cd7a6dda17993a5ffd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]caelus-forge-1.19.2-3.0.0.6.jar",
+      "hash": "bd9d920381a8e539c27492b3ebb77863fe3dd064",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]cloth-config-8.2.88-forge.jar",
+      "hash": "fbd645755abc0dbe5eb1adeb5e649835294a769f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]collective-1.19.2-5.25.jar",
+      "hash": "f74bc35dc7c1ede490126b42c461ff23cda32798",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]CorgiLib-forge-1.19.2-1.0.0.6.jar",
+      "hash": "0f05b1a772c6cbe94e5dc458270de9233fbfcf7d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]cosmoslibrary-1.19.2-8.2.2.0-universal.jar",
+      "hash": "968190000732dce6b5c1dda93e1e4b39c080495f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]ftb-library-forge-1902.3.10-build.156.jar",
+      "hash": "3e958357fa7d202157809474d9bd84116997fcd0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]ftb-teams-forge-1902.2.9-build.61.jar",
+      "hash": "05085189454a2e604b317efcb3523425ec471054",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]geckolib-forge-1.19-3.1.38.jar",
+      "hash": "2447d3684b13b932f782acec282611901504e368",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]konkrete_forge_1.5.3_MC_1.19-1.19.2.jar",
+      "hash": "65501b7722bc4c37062fa2129c5a115b0654d927",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]kotlinforforge-3.8.0-obf.jar",
+      "hash": "0926a1851f745758e5f569e38f99dece98c6f534",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]LibGui-6.5.0-forge+1.19.2.jar",
+      "hash": "a888ad445c95a5b18bb7c97dd75ae96482b489e4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]LibX-1.19.2-4.2.5.jar",
+      "hash": "f60a24fbd9a55a03a205519d11374e879592299a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]moonlight-1.19.2-2.1.10-forge.jar",
+      "hash": "0fe48a5faf970e05e77ca54716bf88e2f149e636",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]Placebo-1.19.2-7.0.1.jar",
+      "hash": "43b5c157f16c43589a57be23494f012ba03795db",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]player-animation-lib-forge-0.4.0-test4.jar",
+      "hash": "7cafcd0d729cc2a54546c02ba732fa985e3ea6b1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]PuzzlesLib-v4.3.12-1.19.2-Forge.jar",
+      "hash": "e9eea8c06b7e35988a51a7ec25fbb5bce4946639",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]resourcefulconfig-forge-1.19.2-1.0.15.jar",
+      "hash": "0315179152480e305cdff71ab165b2583a1e5118",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置]resourcefullib-forge-1.19.2-1.1.17.jar",
+      "hash": "527a6c6a80673a5456f891279da25ab804977a6f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置][帕秋莉手册] Patchouli-1.19.2-77.jar",
+      "hash": "cfccf39046a5d375647c6b85d8191b76bbd5f9d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置][物品过滤器] item-filters-forge-1902.2.9-build.46.jar",
+      "hash": "5c4836be963216fcd522a2dd739448f07b4347e8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置][精妙核心] sophisticatedcore-1.19.2-0.5.38.203.jar",
+      "hash": "376f4b352ad470e373f1a91172a9425fd2c6e7c0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置][银橡前哨] SilveroakOutpost-Forge-1.19.2-2.0.0-Beta.jar",
+      "hash": "2bf442cd550657774c1846f1b2302060e87b3012",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置][锤子核心] HammerLib-1.19.2-19.3.46.jar",
+      "hash": "6a8fe4c65584f13fa26a3a4cf30266844dead622",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[前置][饰品栏]curios-forge-1.19.2-5.1.1.0.jar",
+      "hash": "01e6a9428e77d6b397e1d5c51a693f152488db41",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][农夫乐事] FarmersDelight-1.19-1.2.0.jar",
+      "hash": "3052ebc183aaca383b8df1862fb924f63eae39f0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][力量工艺] forcecraft-1.19.2-3.1.0.jar",
+      "hash": "746bb42bb4f43d2d7244301d58f31913cee46f48",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][新生魔艺] ars_nouveau-1.19.2-3.4.6.jar",
+      "hash": "ff88dec7390977d136be2b7c0fed32294da5d26f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][机械乐事^]sliceanddice-2.0.0.jar",
+      "hash": "d5d5efeadf2abc0be60f79f9ea78efaf0c27714e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][机械动力] create-1.19.2-0.5.0.g.jar",
+      "hash": "428909b46ad098ae5b186113812f002d834cc24e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][机械动力附加]createaddition-1.19.2-20221220a.jar",
+      "hash": "0cba88fa98d32c686203de7d7f531adba4f8ee54",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][机械动力：实用物件]create_misc_and_things_1.19.2_1.1B.jar",
+      "hash": "0d979d623d08477c42590cbff279f64bca7b37cf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][机械动力：工业]createindustry-0.4.0-1.19.2.jar",
+      "hash": "6cd3554dceec9b0cef0bdf27db4ba4bd923b2c99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][机械动力：无中生有^]createsifter-1.19.2-1.3.3.g.jar",
+      "hash": "4eddbf33de49561705c0160dda280400e9af91d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][机械动力：甜食] create-confectionery1.19.2_v1.0.8.jar",
+      "hash": "5dc77bd98c3b017ac9c650411b9668012adfd243",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][机械动力：附魔工业]create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar",
+      "hash": "650028a8f087a7960bb7c03193696a02fdec6b5b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玩法][植物魔法]Botania-1.19.2-436-FORGE.jar",
+      "hash": "63739d07f4e24a135dbc2fe15cd0186b0e8cb132",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][JEI物品管理器] jei-1.19.2-forge-11.4.0.286.jar",
+      "hash": "3bab715ae0f56e1b9a3e1ebfb5e9bb3f677e3711",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][仁慈的虚空] forgivingvoid-forge-1.19-7.0.0.jar",
+      "hash": "3aead334ffa69be574447e69ad56859aad81471e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][伐树] FallingTree-1.19.2-3.10.0.jar",
+      "hash": "52d1a2d2eba71bb0257af18c5013b8fef9cf3961",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][可搜索容器：重遍历]SearchableContainers-2.0.3+mc1.19.jar",
+      "hash": "336624c9d2110dcc62cdcd1a5248751932c76885",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][可视化工作台] VisualWorkbench-v4.2.1-1.19.2-Forge.jar",
+      "hash": "b9c88db6417c11415be77e0c1362a5827c25c18c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][截图到剪贴板] screenshot-to-clipboard-1.0.9-forge.jar",
+      "hash": "52c91669e2be8f73b3d1493b3692311008b4d5a9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][极简血量显示] Neat-1.19-32.jar",
+      "hash": "1f5df9ffe0114ce34aae059d49e3b5add458fadd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][树叶快腐^]LeavesBeGone-v4.0.0-1.19.2-Forge.jar",
+      "hash": "2eb05169002695d72d4d41953e74be39a43cef93",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][消息框控制] ToastControl-1.19.2-7.0.0.jar",
+      "hash": "69cee2db429ceaaaa66f38505ef9b41e3c357541",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][物品栏HUD+] InventoryHud_[1.19.2].forge-3.4.6.jar",
+      "hash": "6e6e7c3f4969cf2c937c69888d05f77617f8fe09",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][玉 🔍] Jade-1.19.1-forge-8.6.0.jar",
+      "hash": "d92568935ac0f50154b50297ff919f6ee4cd5223",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][玉扩展]JadeAddons-1.19.2-forge-3.1.0.jar",
+      "hash": "6e6734670d7972a3e1b51cc1c9cc0618a1b9b046",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][盯到它们熟为止！] staretilltheygrow-1.19.2-2.0.0.jar",
+      "hash": "c90fba257daabedbcd698a4802ce2592f66cb3d0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][简单坟墓] simpletomb-1.19-1.0.15.jar",
+      "hash": "6217fc09a72c06a0f92adc27c85c6a2398d140c1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][经验修补优化^]OverpoweredMending-1.19.2-2.8.2.jar",
+      "hash": "75c33bd77ba03edf09bed5b6b27f48ce57b5c071",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][自动汉化更新非长期支持版]i18nUpdateMod-NLTS-Forge-1.0.2-Hotfix-1.19.2.jar",
+      "hash": "abca6b4892059a2f1f54bf6b6fdc919fb28224c3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][通用拼音搜索]jecharacters-1.19.2-4.3.8.jar",
+      "hash": "a8c171e233360fe4faf990f24de41ad654a47d8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[辅助][鼠标手势] MouseTweaks-forge-mc1.19-2.23.jar",
+      "hash": "9d6e76a331c0598edb6293dc658af2d1672864b4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改]CraftTweaker-forge-1.19.2-10.0.24.jar",
+      "hash": "0f61fd356e79317383deca75fc598f7d15e05bd3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][FTB任务]ftb-quests-forge-1902.4.3-build.140.jar",
+      "hash": "eb4becd5c91cdeb69fe885ab09100509dcf1e6e3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][json交互配方]Lychee-1.19.2-forge-3.2.0.jar",
+      "hash": "39a65332a5973a28f1db1cc1fa432e7dc85b28ad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][任务拓展] questsadditions-1.19.2-1.4.1.jar",
+      "hash": "cd9b84ebf9ba06d114f193d8bbda7e3428bc2882",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][召唤仪式]summoningrituals-1.19.2-2.0.0.jar",
+      "hash": "b08c83211ab9c14debfeeb08406f5078a53511d0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][开放式加载] OpenLoader-Forge-1.19.2-15.0.1.jar",
+      "hash": "93867029b52f6ebf3b850f5b34199e777a596ec5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][游戏阶段] GameStages-Forge-1.19.2-11.0.2.jar",
+      "hash": "0e14fc7c63dbe6ec73747fb5bd94e9dc0a5915db",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][物品阶段] ItemStages-Forge-1.19.2-5.0.2.jar",
+      "hash": "ebcdde46f66155f74062ba3ea4d28a6a7cfff793",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][空岛建立者] SkyblockBuilder-1.19.2-4.2.6.jar",
+      "hash": "378e00b4b3c427ffbf5521e50e2aa3f7b7da843f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][自定义游戏加载界面] drippyloadingscreen_forge_1.6.5_MC_1.19-1.19.2.jar",
+      "hash": "3734a8f7e78170842d9ab1fcfbd0a654be2c1eb7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔改][默认世界类型修改^]DefaultWorldType-1.19.1-3.1.0.jar",
+      "hash": "67cb4230eb6f9dfd382fd900d514414918a4c02c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "scripts/recipes.zs",
+      "hash": "a5f164ded466d643cc2d8a6e2e335c9ff665f951",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "scripts/stage_items.zs",
+      "hash": "4ddea52951c21aac42f3940c0e3350d28d0f44e4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "scripts/tags.zs",
+      "hash": "828e617a26586c7d0040e8e5f44b619e528ef8c3",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 2048,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}

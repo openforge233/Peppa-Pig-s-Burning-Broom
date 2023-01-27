@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "小猪配平Peppa Pig\u0027s Burning Broom",
+  "version": "1.2",
+  "author": "openforge",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "forge-43.2.0",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}
