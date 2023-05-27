@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "amount": 200,
+        "fluid": "createaddition:bioethanol"
+      },
+      {
+        "item": "minecraft:cactus"
+      }
+    ],
+    "results": [
+        {
+            "amount": 200,
+            "fluid": "chemlib:ethanol_fluid"
+        }
+    ]
+  }

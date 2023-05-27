@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "item": "create:copper_casing"
+      },
+      {
+        "item": "refinedstorage:quartz_enriched_iron"
+      }
+    ],
+    "results": [
+      {
+        "item": "refinedstorage:machine_casing"
+      }
+    ]
+  }

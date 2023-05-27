@@ -1,0 +1,13 @@
+{
+  "type": "lychee:block_interacting",
+  "item_in": {
+      "item": "minecraft:enchanting_table"
+  },
+  "block_in": "minecraft:fletching_table",
+  "post": [
+      {
+          "type": "place",
+          "block": "anointeditems:anointing_table"
+      }
+  ]
+}

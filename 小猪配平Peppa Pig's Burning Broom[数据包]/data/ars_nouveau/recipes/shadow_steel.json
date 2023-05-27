@@ -1,0 +1,55 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": false,
+  "output": {
+    "item": "create:shadow_steel"
+  },
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "ars_nouveau:end_fiber"
+      }
+    },
+    {
+      "item": {
+        "item": "botania:gaia_ingot"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:wilden_tribute"
+      }
+    },
+    {
+      "item": {
+        "item": "meetyourfight:phantoplasm"
+      }
+    },
+    {
+      "item": {
+        "item": "meetyourfight:fortunes_favor"
+      }
+    },
+    {
+      "item": {
+        "item": "meetyourfight:mossy_tooth"
+      }
+    },
+    {
+      "item": {
+        "item": "create:precision_mechanism"
+      }
+    },
+    {
+      "item": {
+        "item": "create_things_and_misc:vibration_mechanism"
+      }
+    }
+  ],
+  "reagent": [
+    {
+      "item": "createindustry:steel_ingot"
+    }
+  ],
+  "sourceCost": 0
+}

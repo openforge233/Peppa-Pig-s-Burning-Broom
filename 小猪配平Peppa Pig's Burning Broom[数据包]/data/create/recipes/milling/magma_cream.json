@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    }
+  ],
+  "processingTime": 125,
+  "results": [
+    {
+      "item": "minecraft:magma_cream"
+    }
+  ]
+}

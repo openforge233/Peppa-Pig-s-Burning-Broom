@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "ars_nouveau:source_gem"
+  },
+  "base": {
+    "item": "create:weighted_ejector"
+  },
+  "result": {
+    "item": "ars_nouveau:arcane_pedestal"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:brass_mesh"
+    },
+    {
+      "item": "minecraft:soul_sand"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.4,
+      "item": "minecraft:quartz",
+      "count":6
+    },
+    {
+      "chance": 0.3,
+      "item": "minecraft:gold_nugget",
+      "count":4
+    },
+    {
+      "chance": 0.28,
+      "item": "minecraft:glowstone_dust",
+      "count":3
+    },
+    {
+      "chance": 0.4,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:blaze_powder",
+      "count":2
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:chorus_flower"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:amethyst_shard",
+      "count":2
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:ghast_tear"
+    }
+  ]
+}

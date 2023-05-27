@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "botania:mana_diamond"
+  },
+  "base": {
+    "item": "forcecraft:infuser"
+  },
+  "result": {
+    "item": "ars_nouveau:imbuement_chamber"
+  }
+}

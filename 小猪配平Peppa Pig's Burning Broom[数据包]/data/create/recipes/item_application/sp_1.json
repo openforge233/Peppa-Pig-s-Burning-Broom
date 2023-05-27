@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "minecraft:cartography_table"
+    },
+    {
+      "item": "forcecraft:force_gem"
+    }
+  ],
+  "results": [
+    {
+      "item": "solarflux:sp_1"
+    }
+  ]
+}

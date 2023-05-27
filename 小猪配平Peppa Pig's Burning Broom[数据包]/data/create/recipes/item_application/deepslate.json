@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "item": "minecraft:stone"
+      },
+      {
+        "item": "minecraft:flint"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:deepslate"
+      }
+    ]
+  }

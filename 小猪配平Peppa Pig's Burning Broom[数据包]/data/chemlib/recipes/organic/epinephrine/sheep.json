@@ -1,0 +1,16 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { 
+        "item": "minecraft:poisonous_potato"
+    },
+    "outputs": [
+        { "item": "chemlib:epinephrine" , "count": 1 }
+    ],
+    "inputs": [
+        { "ingredient": { "item": "minecraft:glass_bottle" }, "count": 1 }
+    ],
+    "sacrifices": {
+        "mobs": [{ "mob": "minecraft:sheep" }]
+    },
+    "recipe_time": 40
+}

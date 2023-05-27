@@ -1,0 +1,17 @@
+{
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:mud"
+    },
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "output": [
+    {
+      "item": "extractinator:slush",
+      "count":2
+    }
+  ]
+}

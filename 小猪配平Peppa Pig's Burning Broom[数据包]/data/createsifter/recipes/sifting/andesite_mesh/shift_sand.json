@@ -1,0 +1,53 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:andesite_mesh"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.4,
+      "item": "minecraft:redstone",
+      "count":5
+    },
+    {
+      "chance": 0.18,
+      "item": "minecraft:gold_nugget",
+      "count":4
+    },
+    {
+      "chance": 0.3,
+      "item": "minecraft:gunpowder",
+      "count":3
+    },
+    {
+      "chance": 0.25,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.3,
+      "item": "forcecraft:force_nugget",
+      "count":3
+    },
+    {
+      "chance": 0.28,
+      "item": "minecraft:iron_nugget",
+      "count":5
+    },
+    {
+      "chance": 0.25,
+      "item": "create:copper_nugget",
+      "count":4
+    },
+    {
+      "chance": 0.25,
+      "item": "create:zinc_nugget",
+      "count":4
+    }
+  ]
+}

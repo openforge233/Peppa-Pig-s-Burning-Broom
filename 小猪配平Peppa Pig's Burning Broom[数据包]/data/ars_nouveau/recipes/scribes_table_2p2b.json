@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "ars_nouveau:source_gem_block"
+  },
+  "base": {
+    "item": "botania:runic_altar"
+  },
+  "result": {
+    "item": "ars_nouveau:scribes_table"
+  }
+}

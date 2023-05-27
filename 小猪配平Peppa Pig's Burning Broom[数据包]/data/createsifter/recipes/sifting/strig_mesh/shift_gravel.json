@@ -1,0 +1,50 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:string_mesh"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.4,
+      "item": "minecraft:coal",
+      "count":3
+    },
+    {
+      "chance": 0.3,
+      "item": "minecraft:flint"
+    },
+    {
+      "chance": 0.28,
+      "item": "chemlib:calcium_carbonate_dust",
+      "count":4
+    },
+    {
+      "chance": 0.25,
+      "item": "chemlib:iron_oxide_dust",
+      "count":2
+    },
+    {
+      "chance": 0.2,
+      "item": "chemlib:copper_ii_sulfate_dust",
+      "count":2
+    },
+    {
+      "chance": 0.1,
+      "item": "create:raw_zinc"
+    },
+    {
+      "chance": 0.15,
+      "item": "sulfurpotassiummod:raw_potassium"
+    },
+    {
+      "chance": 0.25,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

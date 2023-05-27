@@ -1,0 +1,23 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern": [
+    "sCs",
+    "CXC",
+    "sCs"
+  ],
+  "key" : {
+    "s" : {
+      "item": "minecraft:sand"
+    },
+    "C" : {
+      "item" : "botania:terrasteel_ingot"
+    },
+    "X" : {
+      "tag" : "chunkbychunk:basic_chunkspawner"
+    }
+  },
+  "result" : {
+    "item" : "chunkbychunk:desertchunkspawner",
+    "count" : 1
+  }
+}

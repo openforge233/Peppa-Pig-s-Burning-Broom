@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "solarflux:blazing_coating"
+	},
+	"result": {
+		"item": "minecraft:blaze_rod"
+	}
+}

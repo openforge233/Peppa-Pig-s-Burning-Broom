@@ -1,0 +1,46 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "createsifter:andesite_mesh"
+    }
+  ],
+  "results": [  
+    {
+      "item": "minecraft:potato",
+      "chance": 0.2
+    },
+    {
+      "item": "minecraft:cocoa_beans",
+      "chance": 0.1
+    },
+    {
+      "item": "farmersdelight:rice",
+      "chance": 0.05
+    },
+    {
+      "item": "minecraft:beetroot_seeds",
+      "chance": 0.08
+    },
+    {
+      "item": "minecraft:melon_seeds",
+      "chance": 0.08
+    },
+    {
+      "item": "minecraft:pumpkin_seeds",
+      "chance": 0.08
+    },
+    {
+      "item": "farmersdelight:cabbage_seeds",
+      "chance": 0.05
+    },
+    {
+      "item": "farmersdelight:tomato_seeds",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 500
+}

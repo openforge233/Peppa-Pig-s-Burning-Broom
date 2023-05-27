@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "ars_nouveau:source_gem_block"
+  },
+  "base": {
+    "item": "minecraft:conduit"
+  },
+  "result": {
+    "item": "ars_nouveau:arcane_core"
+  }
+}

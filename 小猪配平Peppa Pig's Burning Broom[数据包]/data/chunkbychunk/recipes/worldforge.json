@@ -1,0 +1,31 @@
+{
+	"type": "jumbofurnace:jumbo_smelting",
+	"ingredients":
+	[
+		{
+			"type": "forge:nbt",
+			"item": "quark:moss_paste",
+			"count": 4
+		},
+    {
+			"type": "forge:nbt",
+			"item": "minecraft:rooted_dirt",
+			"count": 3
+		},
+    {
+			"type": "forge:nbt",
+			"item": "quark:glowberry_sack",
+			"count": 2
+		},
+    {
+			"type": "forge:nbt",
+			"item": "jumbofurnace:jumbo_furnace",
+			"count": 1
+		}
+	],
+	"result":
+	{
+		"item": "chunkbychunk:worldforge"
+	},
+	"experience": 1
+}

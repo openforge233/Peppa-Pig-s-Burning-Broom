@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "item": "chunkbychunk:worldcore"
+      },
+      {
+        "item": "minecraft:dropper"
+      }
+    ],
+    "results": [
+      {
+        "item": "chunkbychunk:unstablechunkspawner"
+      }
+    ]
+}

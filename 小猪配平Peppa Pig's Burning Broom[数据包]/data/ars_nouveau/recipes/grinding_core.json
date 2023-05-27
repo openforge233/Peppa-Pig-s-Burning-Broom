@@ -1,0 +1,26 @@
+{
+  "type": "ars_nouveau:imbuement",
+  "count": 1,
+  "input": {
+    "item": "forcecraft:upgrade_core"
+  },
+  "output": "forcecraft:grinding_core",
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "minecraft:grindstone"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/steel"
+      }
+    },
+    {
+      "item": {
+        "item": "refinedstorage:destruction_core"
+      }
+    }
+  ],
+  "source": 3000
+}

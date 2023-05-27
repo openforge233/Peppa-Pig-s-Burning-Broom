@@ -1,0 +1,16 @@
+{
+  "type": "ars_nouveau:imbuement",
+  "count": 1,
+  "input": {
+    "item": "botania:narslimmus"
+  },
+  "output": "ars_nouveau:mycelial_sourcelink",
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "botania:rafflowsia"
+      }
+    }
+  ],
+  "source": 0
+}

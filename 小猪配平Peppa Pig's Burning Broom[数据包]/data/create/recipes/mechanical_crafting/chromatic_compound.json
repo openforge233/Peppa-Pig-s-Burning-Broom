@@ -1,0 +1,73 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "minecraft:gold_block"
+    },
+    "B": {
+      "item": "minecraft:netherite_block"
+    },
+    "C": {
+      "item": "create:brass_block"
+    },
+    "D": {
+      "item": "minecraft:amethyst_block"
+    },
+    "E": {
+      "item": "create_things_and_misc:vibration_mechanism"
+    },
+    "F": {
+      "item": "meetyourfight:fortunes_favor"
+    },
+    "G": {
+      "item": "minecraft:iron_block"
+    },
+    "H": {
+      "item": "botania:mana_diamond_block"
+    },
+    "I": {
+      "item": "meetyourfight:phantoplasm"
+    },
+    "J": {
+      "item": "ars_nouveau:wilden_tribute"
+    },
+    "K": {
+      "item": "meetyourfight:mossy_tooth"
+    },
+    "L": {
+      "item": "minecraft:emerald_block"
+    },
+    "M": {
+      "item": "ars_nouveau:source_gem_block"
+    },
+    "N": {
+      "item": "botania:life_essence"
+    },
+    "P": {
+      "item": "refinedstorage:quartz_enriched_iron_block"
+    },
+    "Q": {
+      "item": "botania:elementium_block"
+    },
+    "R": {
+      "item": "botania:terrasteel_block"
+    },
+    "S": {
+      "item": "botania:dragonstone_block"
+    },
+    "O": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    " ABC ",
+    "DEFOG",
+    "HIJKL",
+    "MONEP",
+    " QRS "
+  ],
+  "result": {
+    "item": "create:chromatic_compound"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:brass_mesh"
+    },
+    {
+      "item": "minecraft:netherrack"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.4,
+      "item": "minecraft:coal_block"
+    },
+    {
+      "chance": 0.3,
+      "item": "create:crushed_aluminum_ore",
+      "count":3
+    },
+    {
+      "chance": 0.27,
+      "item": "create:crushed_zinc_ore",
+      "count":4
+    },
+    {
+      "chance": 0.23,
+      "item": "create:crushed_iron_ore",
+      "count":3
+    },
+    {
+      "chance": 0.3,
+      "item": "create:crushed_copper_ore",
+      "count":6
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "chance": 0.15,
+      "item": "create:crushed_gold_ore",
+      "count":4
+    },
+    {
+      "chance": 0.45,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

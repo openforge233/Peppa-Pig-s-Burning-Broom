@@ -1,0 +1,13 @@
+{
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:mud"
+    }
+  ],
+  "output": [
+    {
+      "item": "extractinator:silt"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag":"chunkbychunk:strongworldforgefuel"
+	},
+	"result": {
+		"item": "chunkbychunk:worldfragment"
+	}
+}

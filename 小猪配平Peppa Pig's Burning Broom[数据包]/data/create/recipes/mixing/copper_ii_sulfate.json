@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "amount": 200,
+      "fluid": "minecraft:water"
+    },
+    {
+      "item": "chemlib:copper_ii_sulfate_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:copper_ii_sulfate"
+    }
+  ]
+}

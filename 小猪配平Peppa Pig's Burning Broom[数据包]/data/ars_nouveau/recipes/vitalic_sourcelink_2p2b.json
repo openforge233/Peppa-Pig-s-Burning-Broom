@@ -1,0 +1,16 @@
+{
+  "type": "ars_nouveau:imbuement",
+  "count": 1,
+  "input": {
+    "item": "botania:spectrolus"
+  },
+  "output": "ars_nouveau:vitalic_sourcelink",
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "botania:rosa_arcana"
+      }
+    }
+  ],
+  "source": 0
+}

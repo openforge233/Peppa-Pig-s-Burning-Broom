@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "chemlib:calcium_carbonate_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:calcium_oxide_dust"
+    },
+    {
+      "item": "chemlib:carbon_dioxide"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:zinc_mesh"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.3,
+      "item": "quark:charcoal_block"
+    },
+    {
+      "chance": 0.3,
+      "item": "create:crushed_aluminum_ore",
+      "count":2
+    },
+    {
+      "chance": 0.2,
+      "item": "chemlib:calcium_carbonate_dust",
+      "count":2
+    },
+    {
+      "chance": 0.2,
+      "item": "create:crushed_iron_ore",
+      "count":4
+    },
+    {
+      "chance": 0.28,
+      "item": "create:crushed_copper_ore",
+      "count":4
+    },
+    {
+      "chance": 0.25,
+      "item": "create:raw_zinc",
+      "count":3
+    },
+    {
+      "chance": 0.1,
+      "item": "sulfurpotassiummod:raw_potassium"
+    },
+    {
+      "chance": 0.35,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

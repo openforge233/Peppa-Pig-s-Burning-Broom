@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "chemlib:carbon_dioxide"
+      },
+      {
+        "item":"chemlib:carbon_dust"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:carbon_monoxide",
+        "count":2
+      }
+    ]
+  }

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "ars_nouveau:source_gem_block"
+  },
+  "base": {
+    "item": "farmersdelight:cooking_pot"
+  },
+  "result": {
+    "item": "ars_nouveau:ritual_brazier"
+  }
+}

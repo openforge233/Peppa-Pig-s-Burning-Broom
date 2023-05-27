@@ -1,0 +1,16 @@
+{
+  "type": "ars_nouveau:imbuement",
+  "count": 1,
+  "input": {
+    "item": "botania:thermalily"
+  },
+  "output": "ars_nouveau:volcanic_sourcelink",
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "botania:endoflame"
+      }
+    }
+  ],
+  "source": 0
+}

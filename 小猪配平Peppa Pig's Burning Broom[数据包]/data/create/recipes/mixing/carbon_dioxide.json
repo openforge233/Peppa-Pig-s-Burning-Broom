@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "amount": 1000,
+      "fluid": "minecraft:water"
+    },
+    {
+      "item": "chemlib:carbon_dioxide"
+    }
+  ],
+  "results": [
+    {
+      "amount": 200,
+      "fluid": "chemlib:carbon_dioxide_fluid"
+    }
+  ]
+}

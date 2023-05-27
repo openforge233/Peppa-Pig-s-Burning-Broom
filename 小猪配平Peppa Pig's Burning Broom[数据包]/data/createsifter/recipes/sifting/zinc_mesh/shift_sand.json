@@ -1,0 +1,52 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:zinc_mesh"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.28,
+      "item": "minecraft:prismarine_shard",
+      "count":4
+    },
+    {
+      "chance": 0.4,
+      "item": "minecraft:pointed_dripstone"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:diamond",
+      "count":2
+    },
+    {
+      "chance": 0.3,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:emerald",
+      "count":2
+    },
+    {
+      "chance": 0.3,
+      "item": "minecraft:slime_ball",
+      "count":3
+    },
+    {
+      "chance": 0.28,
+      "item": "minecraft:clay_ball",
+      "count":4
+    },
+    {
+      "chance": 0.3,
+      "item": "minecraft:lapis_lazuli",
+      "count":4
+    }
+  ]
+}

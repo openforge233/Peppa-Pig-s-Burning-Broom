@@ -1,0 +1,26 @@
+{
+	"type": "jumbofurnace:jumbo_smelting",
+	"ingredients":
+	[
+    {
+			"type": "forge:nbt",
+			"item": "farmersdelight:canvas",
+			"count": 16
+		},
+    {
+			"type": "forge:nbt",
+			"item": "chunkbychunk:worldcore",
+			"count": 1
+		},
+    {
+			"type": "forge:nbt",
+			"item": "minecraft:loom",
+			"count": 1
+		}
+	],
+	"result":
+	{
+		"item": "chunkbychunk:worldmender"
+	},
+	"experience": 1
+}

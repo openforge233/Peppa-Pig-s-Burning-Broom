@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "sulfurpotassiummod:potassium"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "item": "chemlib:potassium_dust"
+    }
+  ]
+}

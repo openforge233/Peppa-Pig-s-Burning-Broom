@@ -1,0 +1,33 @@
+{
+  "type": "botania:terra_plate",
+  "ingredients": [
+    {
+      "item": "ars_nouveau:wilden_tribute"
+    },
+    {
+      "item": "create:precision_mechanism"
+    },
+    {
+      "item": "create_things_and_misc:vibration_mechanism"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "meetyourfight:phantoplasm"
+    },
+    {
+      "item": "meetyourfight:mossy_tooth"
+    },
+    {
+      "item": "meetyourfight:fortunes_favor"
+    },
+    {
+      "item": "botania:gaia_ingot"
+    }
+  ],
+  "mana": 500000,
+  "result": {
+    "item": "create:refined_radiance"
+  }
+}

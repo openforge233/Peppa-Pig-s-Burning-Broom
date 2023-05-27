@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:raw_zinc"
+    }
+  ],
+  "processingTime": 125,
+  "results": [
+    {
+      "item": "chemlib:zinc_dust"
+    }
+  ]
+}

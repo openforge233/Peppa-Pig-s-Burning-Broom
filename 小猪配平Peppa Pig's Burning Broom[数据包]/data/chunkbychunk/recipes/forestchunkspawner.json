@@ -1,0 +1,26 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern": [
+    "sCs",
+    "CXC",
+    "dCd"
+  ],
+  "key" : {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "d" : {
+      "item": "minecraft:dirt"
+    },
+    "C" : {
+      "item" : "botania:terrasteel_ingot"
+    },
+    "X" : {
+      "tag" : "chunkbychunk:basic_chunkspawner"
+    }
+  },
+  "result" : {
+    "item" : "chunkbychunk:forestchunkspawner",
+    "count" : 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "chunkbychunk:worldcrystal"
+    }
+  ],
+  "results": [
+    {
+      "item": "buddingcrystals:crystal_catalyst"
+    }
+  ]
+}

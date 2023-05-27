@@ -1,0 +1,14 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { 
+        "tag": "forge:rods"
+    },
+    "outputs": [
+        { "item": "chemlib:cellulose" , "count": 1 }
+    ],
+    "inputs": [
+        { "ingredient": { "tag": "create:deployable_drink" }, "count": 1 },
+        { "ingredient": { "item": "chemlib:cellulose_dust" }, "count": 1 }
+    ],
+    "recipe_time": 20
+}

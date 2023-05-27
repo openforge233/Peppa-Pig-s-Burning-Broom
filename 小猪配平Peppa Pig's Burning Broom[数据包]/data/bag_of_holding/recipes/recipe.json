@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "base": {
+    "item": "minecraft:bundle"
+  },
+  "result": {
+    "item": "bag_of_holding:bag_of_holding"
+  }
+}

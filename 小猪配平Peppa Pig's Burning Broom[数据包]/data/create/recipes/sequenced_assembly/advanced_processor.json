@@ -1,0 +1,96 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "refinedstorage:silicon"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "chance": 60.0,
+      "item": "refinedstorage:advanced_processor"
+    },
+    {
+      "chance": 40.0,
+      "item": "refinedstorage:raw_advanced_processor"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "refinedstorage:silicon"
+        },
+        {
+          "item": "refinedstorage:processor_binding"
+        }
+      ],
+      "results": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "refinedstorage:silicon"
+        },
+        {
+          "item": "createindustry:aluminum_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ],
+      "results": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "refinedstorage:silicon"
+        },
+        {
+          "item": "botania:mana_diamond"
+        }
+      ],
+      "results": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ],
+      "results": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "refinedstorage:silicon"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "ars_nouveau:imbuement",
+  "count": 1,
+  "input": {
+    "item": "botania:kekimurus"
+  },
+  "output": "ars_nouveau:alchemical_sourcelink",
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "botania:gourmaryllis"
+      }
+    }
+  ],
+  "source": 0
+}

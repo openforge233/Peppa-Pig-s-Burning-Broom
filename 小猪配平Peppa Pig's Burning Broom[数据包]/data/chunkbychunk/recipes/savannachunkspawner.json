@@ -1,0 +1,26 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern": [
+    "wCw",
+    "CXC",
+    "dCd"
+  ],
+  "key" : {
+    "w" : {
+      "item": "minecraft:wheat_seeds"
+    },
+    "d" : {
+      "item": "minecraft:dirt"
+    },
+    "C" : {
+      "item" : "botania:terrasteel_ingot"
+    },
+    "X" : {
+      "tag" : "chunkbychunk:basic_chunkspawner"
+    }
+  },
+  "result" : {
+    "item" : "chunkbychunk:savannachunkspawner",
+    "count" : 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_sand"
+    },
+    {
+      "item": "createsifter:brass_mesh"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:twisting_vines",
+      "chance": 0.2
+    },    
+    {
+      "item": "minecraft:weeping_vines",
+      "chance": 0.2
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:brown_mushroom",
+      "chance": 0.08
+    },
+    {
+      "item": "minecraft:wither_rose",
+      "chance": 0.08
+    },
+    {
+      "item": "minecraft:sculk_vein",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:red_mushroom",
+      "chance": 0.08
+    },
+    {
+      "item": "quark:soul_bead",
+      "chance": 0.05
+    },
+    {
+      "chance": 0.15,
+      "item": "create:experience_nugget"
+    }
+  ],
+  "processingTime": 500,
+  "waterlogged": true
+}

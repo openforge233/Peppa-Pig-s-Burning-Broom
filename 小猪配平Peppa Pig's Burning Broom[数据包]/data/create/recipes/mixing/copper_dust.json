@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "chemlib:zinc_dust"
+    },
+    {
+      "item": "chemlib:copper_ii_sulfate"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:zinc_sulfate"
+    },    
+    {
+      "item": "chemlib:copper_dust"
+    }
+  ]
+}

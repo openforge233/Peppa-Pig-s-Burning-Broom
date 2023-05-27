@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "amount": 100,
+      "fluid": "chemlib:ethanol_fluid"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:ethanol"
+    }
+  ]
+}

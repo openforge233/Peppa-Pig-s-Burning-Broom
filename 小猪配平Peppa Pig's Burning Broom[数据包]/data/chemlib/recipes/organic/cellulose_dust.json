@@ -1,0 +1,26 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": [
+        {
+        "tag": "forge:tools/knives"
+        },
+        {
+        "tag":"forge:berries"
+        }
+],
+    "block_in": "minecraft:grindstone",
+    "post": [
+        {
+            "type": "execute",
+            "command": "execute as @p run playsound minecraft:block.grindstone.use voice @s ~ ~ ~"
+        },
+        {
+            "type": "damage_item",
+            "damage":1
+        },        
+        {
+            "type": "drop_item",
+            "item": "chemlib:cellulose_dust"
+        }
+    ]
+}

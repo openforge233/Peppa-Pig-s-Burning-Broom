@@ -1,0 +1,14 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:flint_and_steel",
+      "nbt":{"Damage":62}
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "refinedstorage:silicon"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "chance": 70.0,
+      "item": "refinedstorage:improved_processor"
+    },
+    {
+      "chance": 30.0,
+      "item": "refinedstorage:raw_improved_processor"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "refinedstorage:silicon"
+        },
+        {
+          "item": "refinedstorage:processor_binding"
+        }
+      ],
+      "results": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "refinedstorage:silicon"
+        },
+        {
+          "item": "ars_nouveau:source_gem"
+        }
+      ],
+      "results": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "refinedstorage:silicon"
+        },
+        {
+          "item": "forcecraft:force_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ],
+      "results": [
+        {
+          "item": "refinedstorage:silicon"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "refinedstorage:silicon"
+  }
+}

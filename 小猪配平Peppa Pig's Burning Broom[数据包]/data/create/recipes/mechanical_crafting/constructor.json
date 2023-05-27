@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "a": {
+      "item": "refinedstorage:quartz_enriched_iron_block"
+    },
+    "b": {
+      "item": "refinedstorage:silicon"
+    },
+    "c": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "d": {
+      "item": "storagenetwork:master"
+    }
+  },
+  "pattern": [
+    "aaaaa",
+    "abcba",
+    "acdca",
+    "abcba",
+    "aaaaa"
+  ],
+  "result": {
+    "item": "refinedstorage:controller"
+  }
+}

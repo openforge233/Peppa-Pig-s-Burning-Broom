@@ -1,0 +1,14 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "input": {
+    "item": "solarflux:ender_glass"
+  },
+  "mana": 300,
+  "output": {
+    "item": "minecraft:phantom_membrane"
+  }
+}

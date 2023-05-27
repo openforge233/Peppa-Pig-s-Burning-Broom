@@ -1,0 +1,51 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_soil"
+    },
+    {
+      "item": "createsifter:brass_mesh"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:sweet_berries",
+      "chance": 0.2
+    },    
+    {
+      "item": "minecraft:vine",
+      "chance": 0.3
+    },
+    {
+      "item": "minecraft:warped_fungus",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:crimson_fungus",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "chance": 0.05
+    },
+    {
+      "item": "minecraft:glow_berries",
+      "chance": 0.08
+    },
+    {
+      "item": "minecraft:moss_block",
+      "chance": 0.08
+    },
+    {
+      "item": "minecraft:disc_fragment_5",
+      "chance": 0.05
+    },
+    {
+      "chance": 0.15,
+      "item": "create:experience_nugget"
+    }
+  ],
+  "processingTime": 500,
+  "waterlogged": true
+}
