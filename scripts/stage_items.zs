@@ -39,3 +39,6 @@ ItemStages.createModRestriction("metalbarrels", "ss_period3rd");
 ItemStages.createModRestriction("compactmachines", "ss_period3rd");
 ItemStages.restrict(<item:solarflux:sp_5>, "ss_period3rd");
 ItemStages.restrict(<item:solarflux:sp_6>, "ss_period3rd");
+
+ItemStages.createModRestriction("projecte", "ss_period4th");
+ItemStages.createModRestriction("modestmining", "ss_period4th");
