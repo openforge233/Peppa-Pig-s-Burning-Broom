@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    }
+  ],
+  "result": [
+    {
+      "count": 3,
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:magma_cream"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

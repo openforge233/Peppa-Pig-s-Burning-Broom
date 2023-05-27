@@ -1,0 +1,22 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "solarflux:emerald_glass"
+    },
+    "block_in": "minecraft:jukebox",
+    "post": [
+        {
+            "type": "execute",
+            "command": "function 2p2b:lychee/sculk_shrieker"
+        },
+        {
+            "type": "place",
+            "block": {
+                "blocks": ["minecraft:sculk_shrieker"],
+                "state": {
+                    "can_summon": true
+                }
+            }
+        }
+    ]
+}

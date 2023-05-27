@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB",
+    "BF"
+  ],
+  "key": {
+    "B": [
+      {
+        "item": "forcecraft:force_gem"
+      }
+    ],
+    "F": [
+      {
+        "item": "forcecraft:golden_power_source"
+      }
+    ]
+  },
+  "result": {
+    "item": "forcecraft:force_brick",
+    "count": 2
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "farmersdelight:tools/knives"
+    },
+    "block_in": "minecraft:cactus",
+    "post": [
+        {
+            "type": "place",
+            "block": "minecraft:bamboo"
+        },
+        {
+            "type": "damage_item",
+            "damage":50
+        },
+        {
+            "type": "hurt",
+            "source": "generic",
+            "damage": 5
+        }
+    ]
+}

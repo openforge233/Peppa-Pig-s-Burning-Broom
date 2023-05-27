@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F!",
+    "@F"
+  ],
+  "key": {
+    "F": [
+      {
+        "item": "forcecraft:force_stick"
+      }
+    ],
+    "!": [
+      {
+        "item": "forcecraft:golden_power_source"
+      }
+    ],
+    "@": [
+      {
+        "item": "forcecraft:force_gem"
+      }
+    ]
+  },
+  "result": {
+    "item": "forcecraft:force_shears"
+  }
+}
+

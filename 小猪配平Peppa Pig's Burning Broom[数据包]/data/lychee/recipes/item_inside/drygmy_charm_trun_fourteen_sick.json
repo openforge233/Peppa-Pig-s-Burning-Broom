@@ -1,0 +1,18 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": {
+        "item":"ars_nouveau:whirlisprig_charm",
+        "nbt":{"Tags":["un_fourteensick"]}
+    },
+    "block_in": {
+        "blocks": ["air"]
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "ars_nouveau:whirlisprig_charm",
+            "nbt":{"Tags":["fourteensick"],"display":{"Lore":["[{\"text\":\"神之生物希尔弗的护符，对着魔源召唤之水晶可召唤希尔弗，以自然之魔源作为能量，将周围植物之产物储存在周围之容器\",\"italic\":false,\"color\":\"gold\"}]"]}}
+        }
+    ],
+    "hide_in_viewer":true
+}

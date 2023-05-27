@@ -1,0 +1,19 @@
+{
+  "type": "lychee:anvil_crafting",
+  "item_in": [
+      {
+          "item": "botania:fabulous_pool"
+      },
+      {
+          "item": "create:refined_radiance_casing"
+      }
+  ],
+  "item_out": {
+      "item": "botania:creative_pool"
+  },
+  "level_cost": 30,
+  "material_cost": 1,
+  "post": {
+      "type": "prevent_default"
+  }
+}

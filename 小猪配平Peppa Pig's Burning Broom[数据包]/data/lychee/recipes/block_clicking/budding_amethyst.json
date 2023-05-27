@@ -1,0 +1,13 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "botania:life_essence"
+    },
+    "block_in": "minecraft:amethyst_block",
+    "post": [
+        {
+            "type": "place",
+            "block": "minecraft:budding_amethyst"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "minecraft:wooden_hoe"
+    },
+    "block_in": "minecraft:glow_lichen",
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "quark:glow_lichen_growth"
+        },
+        {
+            "type": "place",
+            "block": "air"
+        },
+        {
+            "type": "damage_item"
+        }
+    ]
+}

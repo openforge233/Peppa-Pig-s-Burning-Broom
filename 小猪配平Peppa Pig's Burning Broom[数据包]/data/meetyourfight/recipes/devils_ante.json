@@ -1,0 +1,20 @@
+{
+    "type": "lychee:block_crushing",
+    "item_in": [
+        {
+            "item": "botania:light_relay"
+        },
+        {
+            "item": "createaddition:chocolate_cake"
+        },
+        {
+            "item": "meetyourfight:haunted_bell"
+        }
+    ],
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "meetyourfight:devils_ante"
+        }
+    ]
+}

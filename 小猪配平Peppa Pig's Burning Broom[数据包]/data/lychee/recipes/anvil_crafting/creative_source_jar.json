@@ -1,0 +1,19 @@
+{
+  "type": "lychee:anvil_crafting",
+  "item_in": [
+      {
+          "item": "ars_nouveau:source_jar"
+      },
+      {
+          "item": "create:refined_radiance_casing"
+      }
+  ],
+  "item_out": {
+      "item": "ars_nouveau:creative_source_jar"
+  },
+  "level_cost": 30,
+  "material_cost": 1,
+  "post": {
+      "type": "prevent_default"
+  }
+}

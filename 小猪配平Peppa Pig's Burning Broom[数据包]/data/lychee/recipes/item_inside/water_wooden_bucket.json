@@ -1,0 +1,23 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": {
+        "item":"forcecraft:force_wrench"
+    },
+    "block_in": {
+        "blocks": ["minecraft:composter"],
+        "state": {
+            "level": 8
+        }
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "woodenbucket:wooden_bucket",
+            "nbt": {"Damage":0,"Fluid":{"Amount":1000,"FluidName":"minecraft:water"}}
+        },
+        {
+            "type": "place",
+            "block": "air"
+        }
+    ]
+}

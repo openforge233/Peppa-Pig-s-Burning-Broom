@@ -1,0 +1,35 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "modestmining:rosegold_apple"
+      },
+      {
+        "item":"botania:rune_spring"
+      },    
+      {
+        "tag":"forge:nether_stars"
+      },  
+      {
+        "item":"ars_nouveau:whirlisprig_charm"
+      },  
+      {
+        "item":"chemlib:sucrose_dust",
+        "amount":3
+      },    
+      {
+        "amount": 1750,
+        "fluid": "create_confectionery:black_chocolate"
+      },
+      {
+        "amount": 1250,
+        "fluidTag": "forge:milk"
+      }
+    ],
+    "results": [
+      {
+        "item": "modestmining:enchanted_rosegold_apple"
+      }
+    ]
+  }

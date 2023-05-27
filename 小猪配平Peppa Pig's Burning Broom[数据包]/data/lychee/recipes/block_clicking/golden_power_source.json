@@ -1,0 +1,32 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "forge:tools/axes"
+    },
+    "block_in": "forcecraft:force_log",
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "forcecraft:golden_power_source",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.3
+            }
+        },
+        {
+            "type": "drop_item",
+            "item": "farmersdelight:tree_bark",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.7
+            }
+        },
+        {
+            "type": "place",
+            "block": "forcecraft:force_wood"
+        },
+        {
+            "type": "damage_item"
+        }
+    ]
+}

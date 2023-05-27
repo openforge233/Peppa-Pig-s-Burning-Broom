@@ -1,0 +1,39 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "forcecraft:force_shears"
+    },
+    "block_in": "minecraft:conduit",
+    "post": [
+        {
+            "type": "place",
+            "block": "air"
+        },
+        {
+            "type": "damage_item",
+            "damage":400
+        },        
+        {
+            "type": "drop_item",
+            "item": "minecraft:heart_of_the_sea"
+        },
+        {
+            "type": "drop_item",
+            "item": "minecraft:nautilus_shell",
+            "count":3,
+            "contextual": {
+                "type": "chance",
+                "chance": 0.3
+            }
+        },
+        {
+            "type": "drop_item",
+            "item": "minecraft:nautilus_shell",
+            "count":5,
+            "contextual": {
+                "type": "chance",
+                "chance": 0.5
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": {
+        "item":"chemlib:sulfuric_acid"
+    },
+    "block_in": {
+        "blocks": ["minecraft:water"]
+    },
+    "post": [
+        {
+            "type": "place",
+            "block": "lava"
+        }
+    ]
+}

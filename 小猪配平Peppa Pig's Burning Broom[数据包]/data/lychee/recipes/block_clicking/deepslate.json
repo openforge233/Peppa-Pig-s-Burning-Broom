@@ -1,0 +1,47 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "air"
+    },
+    "block_in": "minecraft:deepslate",
+    "post": [
+        {
+            "type": "random",
+            "rolls": {
+                "min": 1,
+                "max": 2
+            },
+            "entries": [
+                {
+                    "weight": 1,
+                    "type": "hurt",
+                    "source": "generic",
+                    "damage": 1
+                },
+                {
+                    "weight": 19,
+                    "type": "hurt",
+                    "source": "generic",
+                    "damage": 0.5
+                }
+            ]
+        },
+        {
+            
+        "type": "execute",
+        "command": "function 2p2b:lychee/deepslate",
+        "contextual": {
+        "type": "chance",
+        "chance": 0.85
+        }
+        },
+        {
+            "type": "place",
+            "block": "*",
+            "contextual": {
+            "type": "chance",
+            "chance": 0.5
+        }
+        }
+    ]
+}

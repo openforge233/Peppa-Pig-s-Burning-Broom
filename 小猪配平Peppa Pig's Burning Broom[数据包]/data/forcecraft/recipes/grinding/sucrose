@@ -1,0 +1,13 @@
+{
+  "type": "forcecraft:grinding",
+  "ingredient": {
+    "item": "minecraft:sugar"
+  },
+  "results": [
+      {
+        "item": "chemlib:sucrose"
+      }
+  ],
+  "experience": 100,
+  "processtime": 800
+}

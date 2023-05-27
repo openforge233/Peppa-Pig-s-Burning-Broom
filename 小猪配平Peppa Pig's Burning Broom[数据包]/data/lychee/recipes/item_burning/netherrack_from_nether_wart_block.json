@@ -1,0 +1,12 @@
+{
+    "type": "lychee:item_burning",
+    "item_in": {
+        "item": "minecraft:nether_wart_block"
+    },
+    "post": [
+        {
+        "type": "drop_item",
+        "item": "minecraft:netherrack"
+    }
+]
+}

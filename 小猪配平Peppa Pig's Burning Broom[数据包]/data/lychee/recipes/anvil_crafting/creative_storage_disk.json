@@ -1,0 +1,19 @@
+{
+  "type": "lychee:anvil_crafting",
+  "item_in": [
+      {
+          "item": "refinedstorage:64k_storage_disk"
+      },
+      {
+          "item": "create:chromatic_compound"
+      }
+  ],
+  "item_out": {
+      "item": "refinedstorage:creative_storage_disk"
+  },
+  "level_cost": 30,
+  "material_cost": 1,
+  "post": {
+      "type": "prevent_default"
+  }
+}

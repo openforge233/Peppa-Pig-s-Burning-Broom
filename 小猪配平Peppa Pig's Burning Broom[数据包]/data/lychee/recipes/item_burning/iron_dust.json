@@ -1,0 +1,12 @@
+{
+    "type": "lychee:item_burning",
+    "item_in": {
+        "item": "minecraft:book"
+    },
+    "post": [
+        {
+        "type": "drop_item",
+        "item": "chemlib:iron_dust"
+    }
+]
+}

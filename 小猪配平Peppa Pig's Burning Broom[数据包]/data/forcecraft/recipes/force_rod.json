@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZXX",
+    "XYW",
+    "XWY"  ],
+  "key": {
+    "W": [
+      {
+        "item": "forcecraft:force_stick"
+      }
+    ],
+    "X": [
+      {
+        "item": "forcecraft:force_leaves"
+      }
+    ],
+    "Y": [
+      {
+        "item": "minecraft:bone"
+      }
+    ],
+    "Z": [
+      {
+        "item": "forcecraft:force_wood"
+      }
+    ]
+  },
+
+  "result": {
+    "item": "forcecraft:force_rod"
+  }
+}

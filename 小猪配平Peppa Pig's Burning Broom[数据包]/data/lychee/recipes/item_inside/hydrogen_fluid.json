@@ -1,0 +1,23 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": {
+        "tag":"forge:dusts/iron"
+    },
+    "block_in": {
+        "blocks": ["minecraft:water"]
+    },
+    "post": [
+        {
+            "type": "delay",
+            "s": 15
+        },
+        {
+            "type": "drop_item",
+            "item": "chemlib:iron_oxide_dust"
+        },
+        {
+            "type": "place",
+            "block": "chemlib:hydrogen"
+        }
+    ]
+}

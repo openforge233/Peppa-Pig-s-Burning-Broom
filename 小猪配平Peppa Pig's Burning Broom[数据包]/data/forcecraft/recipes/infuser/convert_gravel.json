@@ -1,0 +1,22 @@
+{
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+    "item": "forcecraft:force_leaves"
+  },
+  "center": {
+    "tag": "forge:sand"
+  },
+  "tier": 0,
+  "time": 20,
+  "output": {
+  	"item":"minecraft:gravel",
+  	"count": 1
+  },
+  "result": "forcecraft:item",
+  "conditions": [
+    {
+      "type": "forcecraft:time_torch_enabled"
+    }
+  ]
+}

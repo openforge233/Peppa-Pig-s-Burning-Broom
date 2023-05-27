@@ -1,0 +1,19 @@
+{
+  "type": "lychee:anvil_crafting",
+  "item_in": [
+      {
+          "item": "refinedstorage:wireless_crafting_monitor"
+      },
+      {
+          "item": "create:chromatic_compound"
+      }
+  ],
+  "item_out": {
+      "item": "refinedstorage:creative_wireless_crafting_monitor"
+  },
+  "level_cost": 30,
+  "material_cost": 1,
+  "post": {
+      "type": "prevent_default"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+    "item": "forcecraft:golden_power_source"
+  },
+  "center": {
+    "item": "forcecraft:force_flask"
+  },
+  "tier": 0,
+  "time": 20,
+  "output": {
+  	"item":"forcecraft:force_filled_force_flask",
+  	"count": 1
+  },
+  "result": "forcecraft:item",
+  "conditions": [
+    {
+      "type": "forcecraft:time_torch_enabled"
+    }
+  ]
+}

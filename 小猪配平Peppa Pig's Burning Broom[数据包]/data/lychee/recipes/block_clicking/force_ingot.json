@@ -1,0 +1,33 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "forcecraft:force_rod"
+    },
+    "block_in": "forcecraft:force_brick",
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "forcecraft:force_ingot",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.4
+            }
+        },
+        {
+            "type": "drop_item",
+            "item": "forcecraft:force_nugget",
+            "count": 6,
+            "contextual": {
+                "type": "chance",
+                "chance": 0.6
+            }
+        },
+        {
+            "type": "place",
+            "block": "air"
+        },
+        {
+            "type": "damage_item"
+        }
+    ]
+}

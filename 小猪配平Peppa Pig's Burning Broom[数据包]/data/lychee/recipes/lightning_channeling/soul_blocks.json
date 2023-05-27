@@ -1,0 +1,9 @@
+{
+    "type": "lychee:lightning_channeling",
+    "post": [
+        {
+            "type": "execute",
+            "command": "function 2p2b:lychee/souling_recipes/soul_blocks"
+        }
+    ]
+}

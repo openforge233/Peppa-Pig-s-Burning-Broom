@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "forcecraft:force_rod"
+    },
+    "block_in": "minecraft:stone",
+    "post": [
+        {
+            "type": "place",
+            "block": "forcecraft:power_ore"
+        },
+        {
+            "type": "damage_item",
+            "damage": 10
+        }
+    ]
+}

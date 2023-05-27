@@ -1,0 +1,20 @@
+{
+  "type": "lychee:anvil_crafting",
+  "item_in": [
+      {
+          "item": "farmersdelight:skillet"
+      },
+      {
+          "item": "create:chromatic_compound"
+      }
+  ],
+  "item_out": {
+      "item": "farmersdelight:skillet",
+      "nbt": "{AttributeModifiers:[{Amount:50,AttributeName:\"generic.attack_damage\",Name:\"generic.attack_damage\",Slot:\"mainhand\",UUID:[I;-123021,30781,1495,-61562]},{Amount:100,AttributeName:\"generic.armor\",Name:\"generic.armor\",Slot:\"offhand\",UUID:[I;-123021,30881,1495,-61762]},{Amount:100,AttributeName:\"generic.luck\",Name:\"generic.luck\",Slot:\"offhand\",UUID:[I;-123021,30981,1495,-61962]},{Amount:500,AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Slot:\"mainhand\",UUID:[I;-123021,31081,1495,-62162]}],Damage:50,Enchantments:[{}],Unbreakable:1}"
+  },
+  "level_cost": 50,
+  "material_cost": 1,
+  "post": {
+      "type": "prevent_default"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "forcecraft:force_shears"
+    },
+    "block_in": "solarflux:sp_1",
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "solarflux:sp_1"
+        },
+        {
+            "type": "place",
+            "block": "air"
+        },
+        {
+            "type": "damage_item"
+        }
+    ]
+}

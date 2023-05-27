@@ -1,0 +1,21 @@
+{
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+    "item": "minecraft:music_disc_5"
+  },
+  "center": {
+    "item": "majobroom:majo_hat"
+  },
+  "tier": 0,
+  "time": 20,
+  "output": {
+  	"item":"quark:forgotten_hat"
+  },
+  "result": "forcecraft:item",
+  "conditions": [
+    {
+      "type": "forcecraft:time_torch_enabled"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": {
+        "item":"minecraft:cobblestone"
+    },
+    "block_in": {
+        "blocks": ["minecraft:lava"]
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "minecraft:netherrack",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.9
+            }
+        },
+        {
+            "type": "drop_item",
+            "item": "minecraft:blackstone",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.1
+            }
+        }
+    ]
+}

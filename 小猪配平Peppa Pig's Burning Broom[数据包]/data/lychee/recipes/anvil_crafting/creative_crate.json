@@ -1,0 +1,19 @@
+{
+  "type": "lychee:anvil_crafting",
+  "item_in": [
+      {
+          "item": "metalbarrels:netherite_barrel"
+      },
+      {
+          "item": "create:shadow_steel_casing"
+      }
+  ],
+  "item_out": {
+      "item": "create:creative_crate"
+  },
+  "level_cost": 30,
+  "material_cost": 1,
+  "post": {
+      "type": "prevent_default"
+  }
+}

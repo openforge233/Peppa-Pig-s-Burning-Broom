@@ -1,0 +1,24 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "forcecraft:force_rod"
+    },
+    "block_in": "minecraft:grass",
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "chemlib:calcium_oxide_dust",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.8
+            }
+        },
+        {
+            "type": "place",
+            "block": "air"
+        },
+        {
+            "type": "damage_item"
+        }
+    ]
+}

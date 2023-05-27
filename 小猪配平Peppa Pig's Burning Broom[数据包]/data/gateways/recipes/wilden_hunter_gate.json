@@ -1,0 +1,24 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "B#B",
+    "#A#",
+    "B#B"
+  ],
+  "key": {
+    "#": {
+      "item": "botania:infused_seeds"
+    },
+	"A": {
+      "item": "minecraft:ender_eye"
+    },
+    "B":{
+      "item":"minecraft:quartz_block"
+    }
+  },
+  "result": {
+    "item": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:wilden_hunter_gate"
+}

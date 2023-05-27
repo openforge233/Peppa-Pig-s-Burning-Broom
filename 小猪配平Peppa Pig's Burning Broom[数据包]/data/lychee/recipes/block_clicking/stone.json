@@ -1,0 +1,42 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "air"
+    },
+    "block_in": "minecraft:stone",
+    "post": [
+        {
+            "type": "place",
+            "block": "minecraft:air",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.2
+            }
+        },
+        {
+            "type": "random",
+            "rolls": {
+                "min": 1,
+                "max": 2
+            },
+            "entries": [
+                {
+                    "weight": 1,
+                    "type": "hurt",
+                    "source": "generic",
+                    "damage": 0.5
+                },
+                {
+                    "weight": 19,
+                    "type": "hurt",
+                    "source": "generic",
+                    "damage": 0.5
+                }
+            ]
+        },
+        {
+    "type": "drop_item",
+    "item": "forcecraft:pile_of_gunpowder"
+        }
+    ]
+}

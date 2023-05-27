@@ -1,0 +1,22 @@
+{
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+    "item": "forcecraft:golden_power_source"
+  },
+  "center": {
+    "item": "forcecraft:force_wood"
+  },
+  "tier": 0,
+  "time": 20,
+  "output": {
+  	"item":"minecraft:bone_block",
+  	"count": 1
+  },
+  "result": "forcecraft:item",
+  "conditions": [
+    {
+      "type": "forcecraft:time_torch_enabled"
+    }
+  ]
+}

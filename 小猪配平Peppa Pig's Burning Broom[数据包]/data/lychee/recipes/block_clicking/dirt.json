@@ -1,0 +1,39 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "forge:dusts/iron_oxide"
+    },
+    "block_in": {
+        "blocks": ["minecraft:composter"],
+        "state": {
+            "level": 8
+        }
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "minecraft:dirt",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.6
+            }
+        },
+        {
+            "type": "drop_item",
+            "item": "minecraft:coarse_dirt",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.4
+            }
+        },
+        {
+            "type": "place",
+            "block":{
+                "blocks": ["minecraft:composter"],
+                "state": {
+                    "level": 0
+                }
+            }
+        }
+    ]
+}

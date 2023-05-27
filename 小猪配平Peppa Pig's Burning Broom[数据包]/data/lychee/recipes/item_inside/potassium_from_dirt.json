@@ -1,0 +1,35 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": {
+        "item":"minecraft:dirt"
+    },
+    "block_in": {
+        "blocks": ["minecraft:water"]
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "sulfurpotassiummod:raw_potassium",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.1
+            }
+        },
+        {
+            "type": "drop_item",
+            "item": "chemlib:phosphorus_dust",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.1
+            }
+        },
+        {
+            "type": "drop_item",
+            "item": "minecraft:mud",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.8
+            }
+        }
+    ]
+}

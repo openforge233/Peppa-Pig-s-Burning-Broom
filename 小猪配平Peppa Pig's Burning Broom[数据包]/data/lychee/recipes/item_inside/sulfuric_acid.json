@@ -1,0 +1,23 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": {
+        "tag":"forge:dusts/sulfur"
+    },
+    "block_in": {
+        "blocks": ["chemlib:hydrogen"]
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "chemlib:sulfuric_acid"
+        },
+        {
+            "type": "place",
+            "block": "air",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.5
+            }
+        }
+    ]
+}

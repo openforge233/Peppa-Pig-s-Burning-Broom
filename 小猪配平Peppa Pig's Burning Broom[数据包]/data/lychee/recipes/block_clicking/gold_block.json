@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "minecraft:copper_block"
+    },
+    "block_in": "createindustry:aluminum_block",
+    "post": [
+        {
+            "type": "place",
+            "block": "minecraft:gold_block"
+        },
+        {
+            "type": "execute",
+            "command": "setblock ~ ~1 ~ chemlib:chlorine"
+        }
+    ]
+}

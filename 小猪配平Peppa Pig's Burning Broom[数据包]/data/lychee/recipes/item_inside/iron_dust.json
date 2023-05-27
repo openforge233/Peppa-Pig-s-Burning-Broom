@@ -1,0 +1,19 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": {
+        "item":"chemlib:iron_oxide_dust"
+    },
+    "block_in": {
+        "blocks": ["chemlib:hydrogen"]
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "chemlib:iron_dust"
+        },
+        {
+            "type": "place",
+            "block": "water"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "type": "lychee:lightning_channeling",
+    "item_in": {
+        "item":"chemlib:zinc_sulfate"
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "chemlib:sulfuric_acid"
+        },        
+        {
+            "type": "drop_item",
+            "item": "chemlib:zinc_dust"
+        }
+    ]
+}

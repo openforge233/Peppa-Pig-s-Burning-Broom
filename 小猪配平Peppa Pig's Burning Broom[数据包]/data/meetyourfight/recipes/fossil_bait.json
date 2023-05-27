@@ -1,0 +1,20 @@
+{
+    "type": "lychee:block_crushing",
+    "item_in": [
+        {
+            "item": "botania:open_bucket"
+        },
+        {
+            "item": "create:flywheel"
+        },
+        {
+            "item": "with_thursday:fish_burger"
+        }
+    ],
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "meetyourfight:fossil_bait"
+        }
+    ]
+}

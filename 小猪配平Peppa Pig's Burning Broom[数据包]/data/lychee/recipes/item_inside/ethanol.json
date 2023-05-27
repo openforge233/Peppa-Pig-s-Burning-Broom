@@ -1,0 +1,20 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": [
+        {
+        "item":"quark:glow_lichen_growth"
+        },
+        {
+        "item":"quark:moss_paste"
+        }
+],
+    "block_in": {
+        "blocks": ["minecraft:water"]
+    },
+    "post": [
+        {
+            "type": "execute",
+            "command": "execute as @p run function 2p2b:lychee/ethanol_fermentation/progresss_start"
+        }
+    ]
+}
