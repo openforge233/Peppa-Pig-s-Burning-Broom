@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "chunkbychunk:worldcore"
+    },
+    "input": {
+      "item": "projecte:alchemical_coal"
+    },
+    "mana": 500,
+    "output": {
+      "item": "projecte:mobius_fuel"
+    }
+  }

@@ -1,0 +1,26 @@
+{
+	"type": "jumbofurnace:jumbo_smelting",
+	"ingredients":
+	[
+		{
+			"type": "forge:nbt",
+			"item": "botania:manasteel_ingot",
+			"count": 2
+		},
+        {
+			"type": "forge:nbt",
+			"item": "chunkbychunk:worldshard",
+			"count": 2
+		},
+        {
+			"type": "forge:nbt",
+			"item": "createaddition:diamond_grit",
+			"count": 1
+		}
+	],
+	"result":
+	{
+		"item": "projecte:medium_covalence_dust"
+	},
+	"experience": 0.1
+}

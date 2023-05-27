@@ -1,0 +1,14 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { "item": "minecraft:mangrove_propagule" },
+    "outputs": [
+        {
+            "mob": "ars_nouveau:whirlisprig"
+        }
+    ],
+    "inputs": [
+        { "ingredient": { "item": "botania:terrasteel_nugget" }, "count": 6 },
+        { "ingredient": { "item": "create:propeller" }, "count": 2 }
+    ],
+    "recipe_time": 1000
+}

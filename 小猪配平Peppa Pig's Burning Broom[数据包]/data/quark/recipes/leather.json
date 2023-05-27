@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FL",
+    "LF"
+  ],
+  "key": {
+    "F": [
+      {
+        "item": "farmersdelight:canvas"
+      }
+    ],
+    "L": [
+      {
+        "item": "minecraft:paper"
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:leather",
+    "count": 2
+  }
+}
+

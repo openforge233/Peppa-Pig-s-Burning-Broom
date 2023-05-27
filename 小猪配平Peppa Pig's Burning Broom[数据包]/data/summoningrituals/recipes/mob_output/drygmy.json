@@ -1,0 +1,14 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { "item": "botania:teru_teru_bozu" },
+    "outputs": [
+        {
+            "mob": "ars_nouveau:drygmy"
+        }
+    ],
+    "inputs": [
+        { "ingredient": { "item": "botania:terrasteel_nugget" }, "count": 3 },
+        { "ingredient": { "item": "create:brass_casing" }, "count": 2 }
+    ],
+    "recipe_time": 1000
+}

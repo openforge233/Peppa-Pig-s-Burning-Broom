@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "quark:bottled_cloud"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "chance": 120.0,
+      "item": "tiab:time_in_a_bottle"
+    },
+    {
+      "chance": 8.0,
+      "item": "forcecraft:force_flask"
+    },
+    {
+      "chance": 8.0,
+      "item": "minecraft:experience_bottle"
+    },
+    {
+      "chance": 5.0,
+      "item": "botania:mana_bottle"
+    },
+    {
+      "chance": 3.0,
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:ender_air_bottle"
+        },
+        {
+          "item": "botania:terrasteel_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:ender_air_bottle"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:ender_air_bottle"
+        },
+        {
+          "item": "minecraft:clock"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:ender_air_bottle"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "botania:ender_air_bottle"
+  }
+}

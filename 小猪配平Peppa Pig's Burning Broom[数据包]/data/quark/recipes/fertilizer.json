@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "chemlib:nitrogen"
+        },
+        {
+            "tag": "forge:dusts/phosphorus"
+        },
+        {
+            "tag": "forge:dusts/potassium"
+        }
+    ],
+    "result": {
+        "item": "botania:fertilizer",
+        "count": 3
+    }
+}
+  
+  

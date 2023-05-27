@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CBC",
+    "BCB",
+    "CBC"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:string"
+      }
+    ],
+    "B": [
+      {
+        "item": "farmersdelight:rope"
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:cobweb"
+  }
+}
+

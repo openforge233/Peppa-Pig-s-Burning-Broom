@@ -1,0 +1,25 @@
+{
+    "type": "ars_nouveau:enchanting_apparatus",
+    "keepNbtOfReagent": false,
+    "output": {
+      "item": "projecte:condenser_mk2"
+    },
+    "pedestalItems": [
+      {
+        "item": {
+          "item": "projecte:rm_furnace"
+        }
+      },
+      {
+        "item": {
+          "item": "projecte:dm_furnace"
+        }
+      }
+    ],
+    "reagent": [
+      {
+        "item": "projecte:condenser_mk1"
+      }
+    ],
+    "sourceCost": 5000
+  }

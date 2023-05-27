@@ -1,0 +1,20 @@
+{
+    "type": "lychee:item_inside",
+    "item_in": [
+        {
+        "item":"quark:moss_paste"
+        },
+        {
+        "item":"manure:manure"
+        }
+],
+    "block_in": {
+        "blocks": ["chemlib:hydrogen"]
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "chemlib:methane"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { "item": "forcecraft:force_wrench" },
+    "outputs": [
+        {
+            "mob": "minecraft:cow",
+            "count": 3
+        }
+    ],
+    "inputs": [
+        { "ingredient": { "item": "sulfurpotassiummod:sulfur" }, "count": 6 },
+        { "ingredient": { "item": "minecraft:bone_block" }, "count": 6 },
+        { "ingredient": { "item": "forcecraft:force_filled_force_flask" }, "count": 6 },
+        { "ingredient": { "item": "minecraft:leather" }, "count": 6 },
+        { "ingredient": { "item": "forcecraft:golden_power_source" }, "count": 6 }
+    ],
+    "recipe_time": 100
+}

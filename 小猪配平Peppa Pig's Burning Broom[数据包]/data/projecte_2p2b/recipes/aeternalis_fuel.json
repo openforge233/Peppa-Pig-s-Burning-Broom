@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "buddingcrystals:budding_netherite_scrap"
+    },
+    "input": {
+      "item": "projecte:mobius_fuel"
+    },
+    "mana": 5000,
+    "output": {
+      "item": "projecte:aeternalis_fuel"
+    }
+  }

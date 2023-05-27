@@ -1,0 +1,31 @@
+{
+	"type": "jumbofurnace:jumbo_smelting",
+	"ingredients":
+	[
+        {
+			"type": "forge:nbt",
+			"item": "minecraft:lapis_lazuli",
+			"count": 4
+		},
+		{
+			"type": "forge:nbt",
+			"item": "minecraft:prismarine_crystals",
+			"count": 3
+		},
+        {
+			"type": "forge:nbt",
+			"item": "create:powdered_obsidian",
+			"count": 2
+		},
+        {
+			"type": "forge:nbt",
+			"item": "chunkbychunk:worldcrystal",
+			"count": 1
+		}
+	],
+	"result":
+	{
+		"item": "projecte:high_covalence_dust"
+	},
+	"experience": 0.1
+}

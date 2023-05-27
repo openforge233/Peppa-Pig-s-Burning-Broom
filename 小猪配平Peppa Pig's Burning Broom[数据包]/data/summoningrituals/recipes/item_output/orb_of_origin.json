@@ -1,0 +1,16 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { 
+        "item": "botania:forest_eye"
+    },
+    "outputs": [
+        { "item": "origins:orb_of_origin" , "count": 1 }
+    ],
+    "inputs": [
+        { "ingredient": { "item": "botania:life_essence" }, "count": 4 },
+        { "ingredient": { "item": "quark:diamond_heart" }, "count": 1 },
+        { "ingredient": { "item": "minecraft:globe_banner_pattern" }, "count": 1 },
+        { "ingredient": { "item": "meetyourfight:fortunes_favor" }, "count": 1 }
+    ],
+    "recipe_time": 500
+}

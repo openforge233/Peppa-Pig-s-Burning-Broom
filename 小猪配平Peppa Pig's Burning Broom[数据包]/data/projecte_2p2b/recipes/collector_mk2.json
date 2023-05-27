@@ -1,0 +1,49 @@
+{
+    "type": "mythicbotany:rune_ritual",
+    "center": {
+      "item": "buddingcrystals:budding_glowstone"
+    },
+    "group": "rune_rituals",
+    "inputs": [
+      {
+        "item": "projecte:collector_mk1"
+      },
+      {
+        "item": "projecte:dm_furnace"
+      }
+    ],
+    "mana": 0,
+    "outputs": [
+      {
+        "count": 1,
+        "item": "projecte:collector_mk2"
+      }
+    ],
+    "runes": [
+      {
+        "consume": false,
+        "rune": {
+          "item": "mythicbotany:nidavellir_rune"
+        },
+        "x": 0,
+        "z": 3
+      },
+      {
+        "consume": false,
+        "rune": {
+          "item": "botania:rune_gluttony"
+        },
+        "x": 3,
+        "z": -3
+      },
+      {
+        "consume": false,
+        "rune": {
+          "item": "botania:rune_pride"
+        },
+        "x": -3,
+        "z": -3
+      }
+    ],
+    "ticks": 200
+  }

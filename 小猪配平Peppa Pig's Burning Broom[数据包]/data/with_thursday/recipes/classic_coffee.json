@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:carbon_monoxide"
+    }
+  ],
+  "results": [
+    {
+      "item": "with_thursday:classic_coffee"
+    }
+  ]
+}

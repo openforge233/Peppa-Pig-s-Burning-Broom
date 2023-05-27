@@ -1,0 +1,22 @@
+{
+    "type": "mythicbotany:infuser",
+    "fromColor": 16711821,
+    "group": "infuser",
+    "ingredients": [
+      {
+        "item": "mythicbotany:mana_collector"
+      },
+      {
+        "item": "projecte:klein_star_ein"
+      },
+      {
+        "item": "create_things_and_misc:vibration_mechanism"
+      }
+    ],
+    "mana": 500000,
+    "output": {
+      "count": 1,
+      "item": "projecte:collector_mk1"
+    },
+    "toColor": 16750080
+  }

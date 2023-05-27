@@ -1,0 +1,42 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": { "item": "projecte:dark_matter_block" },
+    "B": { "item": "create:refined_radiance_casing" },
+    "C": { "item": "projecte:collector_mk3" },
+    "D": { "item": "projecte:klein_star_omega" },
+    "E": { "tag": "projecte:alchemical_bags" },
+    "F": { "item": "projecte:arcana_ring" },
+    "G": { "item": "create:shadow_steel_casing" },
+    "H": { "item": "botania:terrasteel_block" },
+    "I": { "item": "projecte:repair_talisman" },
+    "J": { "item": "projecte:rm_morning_star" },
+    "K": { "item": "projecte:gem_leggings" },
+    "L": { "item": "botania:blacker_lotus" },
+    "M": { "item": "ars_nouveau:glyph_lightning" },
+    "N": { "item": "projecte:philosophers_stone" },
+    "O": { "item": "projecte:rm_katar" },
+    "P": { "item": "projecte:gem_boots" },
+    "Q": { "item": "botania:corporea_crystal_cube" },
+    "R": { "item": "ars_nouveau:glyph_summon_vex" },
+    "S": { "item": "projecte:watch_of_flowing_time" },
+    "T": { "item": "projecte:gem_helmet" },
+    "U": { "item": "minecraft:grass" }
+  },
+  "pattern": [
+    "AAAAAAAAA",
+    "ABBBBEBBB",
+    "ABHCFDBBA",
+    "ABICJLKBA",
+    "ABMNOPLQA",
+    "ABRSTUCBA",
+    "ABCBGBABA",
+    "ABBBBBBBA",
+    "AAAAAAAAA"
+  ],
+  "result": {
+    "item": "projecte:transmutation_table",
+    "count": 1
+  }
+}

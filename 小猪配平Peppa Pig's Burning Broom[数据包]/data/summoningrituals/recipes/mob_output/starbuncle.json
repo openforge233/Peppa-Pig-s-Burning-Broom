@@ -1,0 +1,15 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { "item": "quark:diamond_heart" },
+    "outputs": [
+        {
+            "mob": "ars_nouveau:starbuncle"
+        }
+    ],
+    "inputs": [
+        { "ingredient": { "item": "ars_nouveau:source_gem" }, "count": 8 },
+        { "ingredient": { "item": "forcecraft:force_gem" }, "count": 16 },
+        { "ingredient": { "item": "minecraft:diamond" }, "count": 4 }
+    ],
+    "recipe_time": 1000
+}

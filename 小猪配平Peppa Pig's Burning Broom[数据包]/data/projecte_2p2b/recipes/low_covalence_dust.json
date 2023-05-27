@@ -1,0 +1,21 @@
+{
+	"type": "jumbofurnace:jumbo_smelting",
+	"ingredients":
+	[
+		{
+			"type": "forge:nbt",
+			"item": "chunkbychunk:worldfragment",
+			"count": 3
+		},
+        {
+			"type": "forge:nbt",
+			"item": "create_things_and_misc:experience_sheet",
+			"count": 1
+		}
+	],
+	"result":
+	{
+		"item": "projecte:low_covalence_dust"
+	},
+	"experience": 0.1
+}

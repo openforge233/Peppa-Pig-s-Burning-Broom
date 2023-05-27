@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "farmersdelight:rope"
+        }
+    ],
+    "result": {
+        "item": "quark:rope"
+    }
+}
+  
+  

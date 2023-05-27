@@ -1,0 +1,96 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "sophisticatedstorage:netherite_chest"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "chance": 60.0,
+        "item": "projecte:alchemical_chest"
+      },
+      {
+        "chance": 40.0,
+        "item": "refinedstorage:raw_advanced_processor"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          },
+          {
+            "item": "projecte:low_covalence_dust"
+          }
+        ],
+        "results": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          },
+          {
+            "item": "projecte:medium_covalence_dust"
+          }
+        ],
+        "results": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          }
+        ],
+        "results": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          },
+          {
+            "item": "projecte:high_covalence_dust"
+          }
+        ],
+        "results": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          }
+        ],
+        "results": [
+          {
+            "item": "sophisticatedstorage:netherite_chest"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "sophisticatedstorage:netherite_chest"
+    }
+  }

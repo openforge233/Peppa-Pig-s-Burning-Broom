@@ -1,0 +1,94 @@
+{
+    "type": "mythicbotany:rune_ritual",
+    "center": {
+      "item": "botania:rune_lust"
+    },
+    "group": "rune_rituals",
+    "inputs": [
+      [
+        {
+          "item": "projecte:condenser_mk2"
+        },
+        {
+          "item": "projecte:collector_mk3"
+        }
+      ],
+      {
+        "item": "modestmining:enchanted_rosegold_apple"
+      }
+    ],
+    "mana": 0,
+    "outputs": [
+      {
+        "count": 1,
+        "item": "projecte:philosophers_stone"
+      }
+    ],
+    "runes": [
+      {
+        "consume": false,
+        "rune": {
+          "item": "mythicbotany:midgard_rune"
+        },
+        "x": -2,
+        "z": -2
+      },
+      {
+        "consume": false,
+        "rune": {
+          "item": "mythicbotany:midgard_rune"
+        },
+        "x": -2,
+        "z": 2
+      },
+      {
+        "consume": false,
+        "rune": {
+          "item": "mythicbotany:midgard_rune"
+        },
+        "x": 2,
+        "z": -2
+      },
+      {
+        "consume": false,
+        "rune": {
+          "item": "mythicbotany:midgard_rune"
+        },
+        "x": 2,
+        "z": 2
+      },
+      {
+        "consume": false,
+        "rune": {
+          "item": "mythicbotany:joetunheim_rune"
+        },
+        "x": -3,
+        "z": 0
+      },
+      {
+        "consume": false,
+        "rune": {
+          "item": "mythicbotany:joetunheim_rune"
+        },
+        "x": 3,
+        "z": 0
+      },
+      {
+        "consume": false,
+        "rune": {
+          "item": "mythicbotany:midgard_rune"
+        },
+        "x": 0,
+        "z": -3
+      },
+      {
+        "consume": false,
+        "rune": {
+          "item": "mythicbotany:midgard_rune"
+        },
+        "x": 0,
+        "z": 3
+      }
+    ],
+    "ticks": 200
+  }

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "F"
+  ],
+  "key": {
+    "F": [
+      {
+        "item": "forcecraft:force_log"
+      }
+    ]
+  },
+  "result": {
+    "item": "summoningrituals:altar"
+  }
+}
+

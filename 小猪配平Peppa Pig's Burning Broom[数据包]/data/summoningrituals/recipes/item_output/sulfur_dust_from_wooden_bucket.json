@@ -1,0 +1,15 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { 
+        "item": "minecraft:milk_bucket"
+    },
+    "outputs": [
+        { "item": "chemlib:rhenium_dust", "count": 2 },
+        { "item": "chemlib:sulfur_dust", "count": 2 },
+        { "item": "minecraft:bucket" }
+    ],
+    "inputs": [
+        { "ingredient": { "item": "chemlib:calcium_oxide_dust" }, "count": 8 }
+    ],
+    "recipe_time": 200
+}

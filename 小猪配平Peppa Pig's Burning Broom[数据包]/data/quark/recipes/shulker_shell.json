@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:scute"
+        },
+        {
+            "item": "minecraft:chorus_fruit"
+        }
+    ],
+    "result": {
+        "item": "minecraft:shulker_shell"
+    }
+}
+  
+  

@@ -1,0 +1,15 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { 
+        "item": "forcecraft:milk_force_flask"
+    },
+    "outputs": [
+        { "item": "chemlib:rhenium_dust", "count": 3 },
+        { "item": "chemlib:sulfur_dust", "count": 3 },
+        { "item": "forcecraft:force_flask" }
+    ],
+    "inputs": [
+        { "ingredient": { "item": "chemlib:calcium_oxide_dust" }, "count": 8 }
+    ],
+    "recipe_time": 200
+}

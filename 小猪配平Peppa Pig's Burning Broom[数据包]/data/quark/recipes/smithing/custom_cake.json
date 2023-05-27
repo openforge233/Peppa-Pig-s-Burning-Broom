@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "create:creative_blaze_cake"
+  },
+  "base": {
+    "item": "telepastries:end_cake"
+  },
+  "result": {
+    "item": "telepastries:custom_cake"
+  }
+}

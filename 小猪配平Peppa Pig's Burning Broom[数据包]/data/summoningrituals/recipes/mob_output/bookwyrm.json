@@ -1,0 +1,14 @@
+{
+    "type": "summoningrituals:altar",
+    "catalyst": { "item": "quark:dragon_scale" },
+    "outputs": [
+        {
+            "mob": "ars_nouveau:bookwyrm"
+        }
+    ],
+    "inputs": [
+        { "ingredient": { "item": "botania:dragonstone" }, "count": 3 },
+        { "ingredient": { "item": "minecraft:book" }, "count": 16 }
+    ],
+    "recipe_time": 1000
+}
