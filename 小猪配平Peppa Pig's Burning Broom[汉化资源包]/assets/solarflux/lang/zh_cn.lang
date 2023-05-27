@@ -1,0 +1,82 @@
+
+itemGroup.solarflux=日光通量：重制版
+
+block.solarflux.sp_1=太阳能电池板 I
+block.solarflux.sp_2=太阳能电池板 II
+block.solarflux.sp_3=太阳能电池板 III
+block.solarflux.sp_4=太阳能电池板 IV
+block.solarflux.sp_5=太阳能电池板 V
+block.solarflux.sp_6=太阳能电池板 VI
+block.solarflux.sp_7=太阳能电池板 VII
+block.solarflux.sp_8=太阳能电池板 VIII
+
+item.solarflux.mirror=镜子
+item.solarflux.blazing_coating=烈焰覆膜
+item.solarflux.emerald_glass=绿宝石玻璃
+item.solarflux.ender_glass=末影玻璃
+item.solarflux.photovoltaic_cell_1=光电池 I
+item.solarflux.photovoltaic_cell_2=光电池 II
+item.solarflux.photovoltaic_cell_3=光电池 III
+item.solarflux.photovoltaic_cell_4=光电池 IV
+item.solarflux.photovoltaic_cell_5=光电池 V
+item.solarflux.photovoltaic_cell_6=光电池 VI
+item.solarflux.blank_upgrade=空白升级
+item.solarflux.efficiency_upgrade=效率升级
+item.solarflux.low_light_upgrade=光敏升级
+item.solarflux.traversal_upgrade=机器遍历升级
+item.solarflux.transfer_rate_upgrade=传输速率升级
+item.solarflux.capacity_upgrade=容量升级
+item.solarflux.furnace_upgrade=熔炉升级
+item.solarflux.dispersive_upgrade=能量分散升级
+item.solarflux.block_charging_upgrade=方块充能升级
+
+info.solarflux.energy.stored1=已存储: %,d FE
+info.solarflux.energy.stored2=已存储: %,d/%,d FE
+info.solarflux.energy.generation=产率: %,d FE/tick
+info.solarflux.energy.transfer=传输速率: %,d FE/tick
+info.solarflux.energy.capacity=容量: %,d FE
+info.solarflux.energy.efficiency=效率: %,d%%
+info.solarflux.sun.intensity=光照强度: %,d%%
+info.solarflux.upgrades.installed=升级
+info.solarflux.hold.for.info=按 %s 查看更多
+info.solarflux.shift=Shift
+info.solarflux.maximum=最大值
+info.solarflux.contentretained=已保存
+info.solarflux.resetcontent=放入合成表中已重置保存的数据
+info.solarflux.decreasingReturnsToScale=Decreasing returns to scale
+info.solarflux.constantReturnsToScale=Constant returns to scale
+info.solarflux.increasingReturnsToScale=Increasing returns to scale
+info.solarflux.solar.panel.upgrade=太阳能电池板升级
+info.solarflux.efficiency_upgrade=增加 %.2f%% FE产出
+info.solarflux.upgrade.low.light=在较暗的环境中提高产率，在较亮的环境中降低产率
+info.solarflux.traversal_upgrade=无线充能 %d 格内的机器
+info.solarflux.transfer_rate_upgrade=提高 %.2f%% 传输效率
+info.solarflux.capacity_upgrade=提高 %.2f%% 的缓存容量
+info.solarflux.furnace_upgrade=使用产生的电能加热原版熔炉
+info.solarflux.dispersive_upgrade=为 %d 格内玩家身上的物品充能
+info.solarflux.block_charging_upgrade=为 %d 格内的方块充能
+info.solarflux.craftitem=合成材料
+
+## AVARITIA COMPATIBILITY ##
+block.solarflux.sp_avaritia.neutronium=中子太阳能电池板
+block.solarflux.sp_avaritia.infinity=无尽太阳能电池板
+
+## DRACONIC EVOLUTION ##
+block.solarflux.sp_de.wyvern=飞龙太阳能电池板
+block.solarflux.sp_de.draconic=神龙太阳能电池板
+block.solarflux.sp_de.chaotic=暮色太阳能电池板
+
+## TWILIGHT FOREST ##
+block.solarflux.sp_tf.carminite=Carminite 太阳能电池板
+block.solarflux.sp_tf.fiery=Fiery 太阳能电池板
+
+item.solarflux.twilightforest.twilight_cell_1=暮光电池 I
+item.solarflux.twilightforest.twilight_cell_2=暮光电池 II
+item.solarflux.twilightforest.twilight_upgrade=暮光升级
+
+info.solarflux.twilightforest.twilight_upgrade=略微提高太阳能电池板在暮色森林的效率
+
+## APPLIED ENERGISTICS ##
+item.solarflux.ae2.energy_upgrade=AE能量升级
+
+info.solarflux.ae2.energy_upgrade=允许太阳能电池板接入ME网络

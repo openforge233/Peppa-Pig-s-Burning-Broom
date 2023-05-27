@@ -1,0 +1,48 @@
+{
+  "block.discholder.white_discholder": "白色唱片架",
+  "block.discholder.orange_discholder": "橙色唱片架",
+  "block.discholder.magenta_discholder": "品红色唱片架",
+  "block.discholder.light_blue_discholder": "淡蓝色唱片架",
+  "block.discholder.yellow_discholder": "黄色唱片架",
+  "block.discholder.lime_discholder": "黄绿色唱片架",
+  "block.discholder.pink_discholder": "粉色唱片架",
+  "block.discholder.gray_discholder": "灰色唱片架",
+  "block.discholder.light_gray_discholder": "淡灰色唱片架",
+  "block.discholder.cyan_discholder": "青色唱片架",
+  "block.discholder.purple_discholder": "紫色唱片架",
+  "block.discholder.blue_discholder": "蓝色唱片架",
+  "block.discholder.brown_discholder": "棕色唱片架",
+  "block.discholder.red_discholder": "红色唱片架",
+  "block.discholder.green_discholder": "绿色唱片架",
+  "block.discholder.black_discholder": "黑色唱片架",
+
+  "itemGroup.discholder.discholder_tab": "唱片架",
+
+  "entity.minecraft.villager.dj": "DJ",
+
+
+  "item.discholder.music_disc_baroque_nightmare": "LaRaikaa - Baroque Nightmare",
+  "item.discholder.music_disc_baroque_nightmare.desc": "Baroque Nightmare",
+
+  "item.discholder.music_disc_cleopona": "Yellow Tune - Cleopatra",
+  "item.discholder.music_disc_cleopona.desc": "Cleopatra",
+
+  "item.discholder.music_disc_for_the_new_lunar_republic": "Mumble - For The New Lunar Republic",
+  "item.discholder.music_disc_for_the_new_lunar_republic.desc": "For The New Lunar Republic",
+
+  "item.discholder.music_disc_no_strings_attached": "Jeffthestrider - No Strings Attached",
+  "item.discholder.music_disc_no_strings_attached.desc": "No Strings Attached",
+
+  "item.discholder.music_disc_sun_burst": "Panic - Sun Burst",
+  "item.discholder.music_disc_sun_burst.desc": "Sun Burst",
+
+  "item.discholder.music_disc_harmony": "Flyghtning - The Tree of Harmony",
+  "item.discholder.music_disc_harmony.desc": "The Tree of Harmony",
+
+  "item.discholder.music_disc_spirit_animal": "MrMehster - SP1RIT ANIMAL",
+  "item.discholder.music_disc_spirit_animal.desc": "SP1RIT ANIMAL",
+
+
+  "item.discholder.music_disc_empty": "Any Disc",
+  "item.discholder.music_disc_empty.desc": "Any Disc"
+}

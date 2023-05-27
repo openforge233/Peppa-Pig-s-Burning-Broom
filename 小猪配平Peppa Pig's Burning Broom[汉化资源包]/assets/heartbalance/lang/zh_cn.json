@@ -1,0 +1,8 @@
+{
+	"item.heartbalance.refill_heart":"大治愈之心",
+	"item.heartbalance.half_heart":"治愈之心",
+	"item.heartbalance.full_heart":"小治愈之心",
+	"item.heartbalance.refill_heart.tooltip":"拾取时恢复生命值",
+	"item.heartbalance.half_heart.tooltip":"拾取时恢复生命值",
+	"item.heartbalance.full_heart.tooltip":"拾取时恢复生命值"	
+}

@@ -1,0 +1,19 @@
+{
+	"block.jumbofurnace.jumbo_furnace": "大型熔炉",
+	"item.jumbofurnace.jumbo_furnace": "大型熔炉",
+	"item.jumbofurnace.jumbo_furnace_jei": "大型熔炉",
+	"container.jumbofurnace.jumbo_furnace": "大型熔炉",
+	"gui.jumbofurnace.category.jumbo_smelting": "大型熔炼",
+	"gui.jumbofurnace.category.jumbo_furnace_upgrade": "大型熔炉升级",
+	"gui.jumbofurnace.category.multiblock_building": "建造多方块结构",
+	"jumbofurnace.jumbo_furnace_info_tooltip": "将27个熔炉摆成3*3的立方体以建造大型熔炉",
+	"jumbofurnace.jumbo_furnace_upgrade_info": "这(些)物品可以被放入大型熔炉的升级槽中以提升每次燃烧可处理的烹饪配方数量",
+	"jumbofurnace.advancements.story.assemble_jumbo_furnace.title": "大型熔炉",
+	"jumbofurnace.advancements.story.assemble_jumbo_furnace.description": "将27个熔炉摆成3*3的立方体以建造大型熔炉",
+	"jumbofurnace.advancements.story.obtain_jumbo_furnace.title": "外面瞧着小",
+	"jumbofurnace.advancements.story.obtain_jumbo_furnace.description": "在大型熔炉中燃烧27个熔炉以获得大型熔炉的物品形态",
+	"jumbofurnace.advancements.story.upgrade_jumbo_furnace.title": "里面瞅着大",
+	"jumbofurnace.advancements.story.upgrade_jumbo_furnace.description": "用大型熔炉升级你的大型熔炉",
+	"jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace.title": "让熔炉煅烧一切！",
+	"jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace.description": "用一组大型熔炉对你的大型熔炉进行彻底地改造"
+}

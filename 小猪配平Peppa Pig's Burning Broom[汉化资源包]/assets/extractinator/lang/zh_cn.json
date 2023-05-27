@@ -1,0 +1,18 @@
+{
+  "block.extractinator.extractinator": "提炼机",
+  "block.extractinator.silt": "泥沙",
+  "block.extractinator.slush": "雪泥",
+  "text.extractinator.drop_chance": "概率: %s%%",
+  "text.resourcefulconfig.extractinator.option.extractTicks": "Extract Ticks",
+  "text.resourcefulconfig.extractinator.option.lootMultiplier": "Loot Multiplier",
+  "text.resourcefulconfig.extractinator.option.extractinatorDurability": "提炼机 Durability",
+  "text.resourcefulconfig.extractinator.option.siltVeinSize": "Silt Vein Size",
+  "text.resourcefulconfig.extractinator.option.siltVeinsPerChunk": "Silt Veins Per Chunk",
+  "text.resourcefulconfig.extractinator.option.siltMinHeight": "Silt Min Height",
+  "text.resourcefulconfig.extractinator.option.siltMaxHeight": "Silt Max Height",
+  "text.resourcefulconfig.extractinator.option.slushVeinSize": "Slush Vein Size",
+  "text.resourcefulconfig.extractinator.option.slushVeinsPerChunk": "Slush Veins Per Chunk",
+  "text.resourcefulconfig.extractinator.option.slushMinHeight": "Slush Min Height",
+  "text.resourcefulconfig.extractinator.option.slushMaxHeight": "Slush Max Height",
+  "emi.category.extractinator.extractinator": "提炼机"
+}
