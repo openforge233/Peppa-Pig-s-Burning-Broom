@@ -1,0 +1,6 @@
+data modify entity @s CustomName set value '[{"translate":"2p2b.functions.ethanol_fermentation_loading_line"},{"text":"■■■■■","color":"dark_green"}]'
+#schedule function 2p2b:lychee/ethanol_fermentation/kill_progress 1s
+summon minecraft:item ~ ~2 ~ {Item:{id:"chemlib:ethanol",Count:1b}}
+setblock ~ ~ ~ air
+execute as @e[type=armor_stand,tag=fake_block,limit=1] run kill @s
+execute as @e[type=armor_stand,scores={countdown=..0},tag=progress,limit=1] run kill @s

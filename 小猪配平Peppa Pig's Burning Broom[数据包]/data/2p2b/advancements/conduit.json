@@ -1,0 +1,16 @@
+{
+	"parent": "2p2b:andesite_casing",
+	"display": {
+		"icon": { "item": "minecraft:conduit" },
+		"title": { "translate": "2p2b.advancements.conduit.title" },
+		"description": { "translate": "2p2b.advancements.conduit.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"get_item": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": { "items": [{ "items": ["minecraft:conduit"] }] }
+		}
+	},
+	"requirements": [["get_item"]]
+}

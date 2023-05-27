@@ -1,0 +1,16 @@
+{
+	"parent": "2p2b:root",
+	"display": {
+		"icon": { "item": "minecraft:sand" },
+		"title": { "translate": "2p2b.advancements.sand.title" },
+		"description": { "translate": "2p2b.advancements.sand.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"get_item": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": { "items": [{ "items": ["minecraft:sand"] }] }
+		}
+	},
+	"requirements": [["get_item"]]
+}

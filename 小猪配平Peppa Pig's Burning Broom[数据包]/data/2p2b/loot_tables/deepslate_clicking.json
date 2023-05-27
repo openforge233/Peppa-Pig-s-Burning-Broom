@@ -1,0 +1,35 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 30,
+            "name": "minecraft:hanging_roots"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 20,
+            "name": "forcecraft:pile_of_gunpowder"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 25,
+            "name": "minecraft:glow_berries"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 20,
+            "name": "minecraft:glow_lichen"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 15,
+            "name": "minecraft:moss_block"
+          }
+        ]
+      }
+    ]
+  }
+  

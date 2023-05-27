@@ -1,0 +1,1 @@
+loot spawn ~ ~ ~ loot 2p2b:deepslate_clicking

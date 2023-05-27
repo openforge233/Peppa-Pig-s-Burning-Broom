@@ -1,0 +1,15 @@
+{
+	"parent": "2p2b:andesite_casing",
+	"display": {
+		"icon": { "item": "solarflux:emerald_glass" },
+		"title": { "translate": "2p2b.advancements.summon_warden.title" },
+		"description": { "translate": "2p2b.advancements.summon_warden.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"summon_warden": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [["summon_warden"]]
+}

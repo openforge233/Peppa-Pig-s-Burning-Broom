@@ -1,0 +1,18 @@
+
+#summon minecraft:armor_stand ~ ~1 ~ {Invisible:1b,Marker:1b,CustomName:'[{"text":"\\ue0bb"}]',CustomNameVisible:1b,Tags:["loading_line"]}
+
+
+
+# 显示进度条
+execute as @e[type=armor_stand,scores={countdown=..100},tag=progress] run data modify entity @s CustomName set value "\"\""
+execute as @e[type=armor_stand,scores={countdown=..80},tag=progress] run data modify entity @s CustomName set value '[{"translate":"2p2b.functions.ethanol_fermentation_loading_line"},{"text":"■","color":"red"}]'
+execute as @e[type=armor_stand,scores={countdown=..60},tag=progress] run data modify entity @s CustomName set value '[{"translate":"2p2b.functions.ethanol_fermentation_loading_line"},{"text":"■■","color":"yellow"}]'
+execute as @e[type=armor_stand,scores={countdown=..40},tag=progress] run data modify entity @s CustomName set value '[{"translate":"2p2b.functions.ethanol_fermentation_loading_line"},{"text":"■■■","color":"gold"}]'
+execute as @e[type=armor_stand,scores={countdown=..20},tag=progress] run data modify entity @s CustomName set value '[{"translate":"2p2b.functions.ethanol_fermentation_loading_line"},{"text":"■■■■","color":"green"}]'
+execute as @e[type=armor_stand,scores={countdown=0},tag=progress] run function 2p2b:lychee/ethanol_fermentation/progress_end
+
+# 减少倒计时分数
+scoreboard players remove @e[type=armor_stand,scores={countdown=20..},tag=progress] countdown 20
+
+# 安排下一个倒计时刻度
+execute as @e[type=armor_stand,scores={countdown=20..}] run schedule function 2p2b:lychee/ethanol_fermentation/loading_line 1s

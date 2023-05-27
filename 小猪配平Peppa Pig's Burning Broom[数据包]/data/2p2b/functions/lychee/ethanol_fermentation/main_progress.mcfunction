@@ -1,0 +1,9 @@
+# 每隔40秒为第二个盔甲架增加一个计分板分数
+execute as @e[type=minecraft:armor_stand,tag=fermentation,tag=progress] run scoreboard players add @s countdown 1
+#execute as @e[type=minecraft:armor_stand,tag=fermentation,tag=progress] run scoreboard players operation @e[type=minecraft:armor_stand,tag=fermentation,tag=fake_block,limit=1] countdown = @s countdown
+execute as @e[type=minecraft:armor_stand,tag=fermentation,tag=progress,scores={countdown=8..}] run data modify entity @s CustomName set value '[{"translate":"2p2b.functions.ethanol_fermentation_loading_line"},{"text":"■","color":"red"}]'
+execute as @e[type=minecraft:armor_stand,tag=fermentation,tag=progress,scores={countdown=16..}] run data modify entity @s CustomName set value '[{"translate":"2p2b.functions.ethanol_fermentation_loading_line"},{"text":"■■","color":"yellow"}]'
+execute as @e[type=minecraft:armor_stand,tag=fermentation,tag=progress,scores={countdown=24..}] run data modify entity @s CustomName set value '[{"translate":"2p2b.functions.ethanol_fermentation_loading_line"},{"text":"■■■","color":"gold"}]'
+execute as @e[type=minecraft:armor_stand,tag=fermentation,tag=progress,scores={countdown=32..}] run data modify entity @s CustomName set value '[{"translate":"2p2b.functions.ethanol_fermentation_loading_line"},{"text":"■■■■","color":"green"}]'
+execute as @e[type=minecraft:armor_stand,tag=fermentation,tag=progress,scores={countdown=40..}] run function 2p2b:lychee/ethanol_fermentation/progress_end
+execute as @e[type=minecraft:armor_stand,scores={countdown=..40}] run schedule function 2p2b:lychee/ethanol_fermentation/main_progress 1s

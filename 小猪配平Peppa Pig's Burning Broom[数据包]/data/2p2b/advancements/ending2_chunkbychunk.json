@@ -1,0 +1,18 @@
+{
+	"parent": "2p2b:hydrochloric_acid",
+	"display": {
+		"icon": { "item": "projecte:transmutation_tablet" },
+		"title": { "translate": "2p2b.advancements.ending2_chunkbychunk.title" },
+		"description": { "translate": "2p2b.advancements.ending2_chunkbychunk.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"ftb_reward": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [["ftb_reward"]],
+	"rewards": {
+		"function": "2p2b:advancements_rewards/ending2"
+	}
+}

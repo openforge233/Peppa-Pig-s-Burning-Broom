@@ -1,0 +1,19 @@
+{
+	"display": {
+		"icon": { "item": "chemlib:periodic_table" },
+		"title": { "translate": "2p2b.advancements.root.title" },
+		"description": { "translate": "2p2b.advancements.root.description" },
+		"frame": "task",
+		"background": "farmersdelight:textures/block/straw_bale_end.png"
+	},
+	"criteria": {
+		"start_game": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [
+		[
+			"start_game"
+		]
+	]
+}

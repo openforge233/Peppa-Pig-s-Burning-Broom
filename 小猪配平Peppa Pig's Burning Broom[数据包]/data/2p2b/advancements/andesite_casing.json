@@ -1,0 +1,16 @@
+{
+	"parent": "2p2b:sulfur_ore",
+	"display": {
+		"icon": { "item": "create:andesite_casing" },
+		"title": { "translate": "2p2b.advancements.andesite_casing.title" },
+		"description": { "translate": "2p2b.advancements.andesite_casing.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"get_item": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": { "items": [{ "items": ["create:andesite_casing"] }] }
+		}
+	},
+	"requirements": [["get_item"]]
+}

@@ -1,0 +1,15 @@
+{
+	"parent": "2p2b:ending2_chunkbychunk",
+	"display": {
+		"icon": { "item": "minecraft:deepslate" },
+		"title": { "translate": "2p2b.advancements.clicking_deepslate.title" },
+		"description": { "translate": "2p2b.advancements.clicking_deepslate.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"lychee_function_reward": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [["lychee_function_reward"]]
+}

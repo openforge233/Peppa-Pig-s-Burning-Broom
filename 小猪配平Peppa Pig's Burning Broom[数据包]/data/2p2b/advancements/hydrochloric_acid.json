@@ -1,0 +1,16 @@
+{
+	"parent": "2p2b:sand",
+	"display": {
+		"icon": { "item": "chemlib:hydrochloric_acid" },
+		"title": { "translate": "2p2b.advancements.hydrochloric_acid.title" },
+		"description": { "translate": "2p2b.advancements.hydrochloric_acid.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"get_item": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": { "items": [{ "items": ["chemlib:hydrochloric_acid"] }] }
+		}
+	},
+	"requirements": [["get_item"]]
+}

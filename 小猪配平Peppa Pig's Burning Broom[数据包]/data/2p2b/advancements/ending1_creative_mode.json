@@ -1,0 +1,18 @@
+{
+	"parent": "2p2b:hydrochloric_acid",
+	"display": {
+		"icon": { "item": "minecraft:command_block" },
+		"title": { "translate": "2p2b.advancements.ending1_creative_mode.title" },
+		"description": { "translate": "2p2b.advancements.ending1_creative_mode.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"ftb_reward": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [["ftb_reward"]],
+	"rewards": {
+		"function": "2p2b:advancements_rewards/ending1"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"parent": "2p2b:root",
+	"display": {
+		"icon": { "item": "sulfurpotassiummod:sulfur_ore" },
+		"title": { "translate": "2p2b.advancements.sulfur_ore.title" },
+		"description": { "translate": "2p2b.advancements.sulfur_ore.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"make_sulfur_ore_by_function": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [["make_sulfur_ore_by_function"]]
+}

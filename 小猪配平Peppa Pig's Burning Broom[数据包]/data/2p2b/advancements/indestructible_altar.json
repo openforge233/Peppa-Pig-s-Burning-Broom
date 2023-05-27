@@ -1,0 +1,15 @@
+{
+	"parent": "2p2b:ending2_chunkbychunk",
+	"display": {
+		"icon": { "item": "summoningrituals:indestructible_altar" },
+		"title": { "translate": "2p2b.advancements.indestructible_altar.title" },
+		"description": { "translate": "2p2b.advancements.indestructible_altar.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"function_reward": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [["function_reward"]]
+}

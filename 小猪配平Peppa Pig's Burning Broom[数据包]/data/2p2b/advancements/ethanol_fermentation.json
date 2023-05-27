@@ -1,0 +1,15 @@
+{
+	"parent": "2p2b:clicking_deepslate",
+	"display": {
+		"icon": { "item": "chemlib:ethanol" },
+		"title": { "translate": "2p2b.advancements.ethanol_fermentation.title" },
+		"description": { "translate": "2p2b.advancements.ethanol_fermentation.description" },
+		"frame": "task"
+	},
+	"criteria": {
+		"lychee_function_reward": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [["lychee_function_reward"]]
+}
