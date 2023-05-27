@@ -1,0 +1,10 @@
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:arachnid"}}}}] run function 2p2b_origin:actions/get/arachnid
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:avian"}}}}] run function 2p2b_origin:actions/get/avian
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:blazeborn"}}}}] run function 2p2b_origin:actions/get/blazeborn
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:elytrian"}}}}] run function 2p2b_origin:actions/get/elytrian
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:enderian"}}}}] run function 2p2b_origin:actions/get/enderian
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:feline"}}}}] run function 2p2b_origin:actions/get/feline
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:human"}}}}] run function 2p2b_origin:actions/get/human
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:merling"}}}}] run function 2p2b_origin:actions/get/merling
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:phantom"}}}}] run function 2p2b_origin:actions/get/phantom
+execute as @s[nbt={ForgeCaps:{"origins:origins":{Origins:{"origins:origin":"origins:shulk"}}}}] run function 2p2b_origin:actions/get/shulk

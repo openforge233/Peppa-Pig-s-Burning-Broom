@@ -1,0 +1,8 @@
+{
+    "powers": [
+        "2p2b_origin:gamestage"
+    ],
+    "icon": "minecraft:grass_block",
+    "name": "2p2b.origins.custom_origin.name",
+    "description": "2p2b.origins.custom_origin.description"
+}

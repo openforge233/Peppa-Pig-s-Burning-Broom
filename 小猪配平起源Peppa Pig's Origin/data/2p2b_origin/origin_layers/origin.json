@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "order": 11,
+    "enabled": true,
+    "origins": [
+      "2p2b_origin:gamestage"
+    ],
+    "gui_title": {
+      "choose_origin": "layer.2p2b.origins.origin.name",
+      "view_origin": "layer.2p2b.origins.origin.name"
+  }
+}

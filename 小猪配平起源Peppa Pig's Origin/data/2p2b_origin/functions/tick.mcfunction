@@ -1,0 +1,1 @@
+execute as @a[scores={deathCount=1..}] run function 2p2b_origin:stage_reload_for_single
