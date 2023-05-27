@@ -1,0 +1,12 @@
+{
+  "event.loadedmusic": {
+    "sounds": [
+      "event/loadedmusic"
+    ]
+  },
+  "event.summoning_music": {
+    "sounds": [
+      "event/summoning_music"
+    ]
+  }           
+}

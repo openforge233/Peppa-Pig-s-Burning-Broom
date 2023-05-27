@@ -1,0 +1,36 @@
+{
+    "2p2b.origins.custom_origin.name":"小猪配平",
+    "2p2b.origins.custom_origin.description":"你别无选择，快开始游戏吧。",
+    "layer.2p2b.origins.origin.name": "开局",
+
+    "2p2b.telepastries.item.custom_cake.name":"新世界",
+    "2p2b.darkmodeverywhere.button.main.name":"夜间模式",
+
+    "2p2b.advancements.root.title":"小猪配平",
+    "2p2b.advancements.root.description":"大家好我是佩奇——这是我的弟弟配平！",
+    "2p2b.advancements.sand.title":"你需要来点白沙糖",
+    "2p2b.advancements.sand.description":"把力量石砖丢到力量灌注台上——别人不说话你是不是把别人当沙子？",
+    "2p2b.advancements.sulfur_ore.title":"力量矿：硫（字面意思）",
+    "2p2b.advancements.sulfur_ore.description":"把木炭和铁粉丢在力量矿石上以获得力量矿石。力量矿石可以通过力量权杖右击石头得到。",
+    "2p2b.advancements.andesite_casing.title":"破壳而出",
+    "2p2b.advancements.andesite_casing.description":"铁粒和力量锭在安山岩上旋转一秒钟就可以获得安山机壳。安山岩配方可以查阅JEI。",
+    "2p2b.advancements.hydrochloric_acid.title":"王水的奇怪用途",
+    "2p2b.advancements.hydrochloric_acid.description":"制作一瓶盐酸拿在手上，把可恨的人类产生的排泄物清理干净。不过，由于试管口较小，除粪范围仅有5格。",
+    "2p2b.advancements.conduit.title":"我超勇的",
+    "2p2b.advancements.conduit.description":"击败老头守卫者，获取它体内的潮涌核心。",
+    "2p2b.advancements.ending1_creative_mode.title":"达成结局：创造模式",
+    "2p2b.advancements.ending1_creative_mode.description":"一劳永逸，免受磨折",
+    "2p2b.advancements.ending2_chunkbychunk.title":"达成结局：结束了？",
+    "2p2b.advancements.ending2_chunkbychunk.description":"投胎转世，从头开始",
+    "2p2b.advancements.summon_warden.title":"听力考试现在开始",
+    "2p2b.advancements.summon_warden.description":"使用绿宝石右键唱片机以获得幽匿尖啸体",
+    "2p2b.advancements.indestructible_altar.title":"坚固的同盟",
+    "2p2b.advancements.indestructible_altar.description":"将四个石子和两个燧石扔到深板岩上以获得坚固的召唤祭坛",
+    "2p2b.advancements.clicking_deepslate.title":"掘地三尺有神明",
+    "2p2b.advancements.clicking_deepslate.description":"空手右击深板岩以获得一些深埋化石中的物品",
+    "2p2b.advancements.ethanol_fermentation.title":"生物学奇迹",
+    "2p2b.advancements.ethanol_fermentation.description":"将发光地衣生长物和苔藓泥扔入水中，看着它们在水中发酵成乙醇",
+
+    "2p2b.functions.rooted_dirt_to_sand_execute_by_false":"副手缺少发光浆果",
+    "2p2b.functions.ethanol_fermentation_loading_line":"发酵进度"
+}
